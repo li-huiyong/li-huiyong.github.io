@@ -3,9 +3,6 @@ layout: page
 title: About me
 ---
 
----
-
-***
 ___
 
 <!--<p class="message">
