@@ -8,11 +8,11 @@ title: About me
 </p>
 
 ## Huiyong Li
-# 李 慧勇 (り けいゆう)
+### 李 慧勇 (り けいゆう)
 
 PhD student, Informatics
 
-# <span style="color: red; ">Education</span>
+### <span style="color: red; ">Education</span>
 
 2018.04-present PhD student in Graduate School of Informatics, Kyoto University
 
