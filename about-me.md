@@ -2,8 +2,9 @@
 layout: page
 title: About me
 ---
+======
 
-[]((<p class="message">
+[](<p class="message">
   Photo is coming!
 </p>)
 
