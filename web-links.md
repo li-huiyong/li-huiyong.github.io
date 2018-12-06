@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Links
+title: Web links
 ---
 
 ___
