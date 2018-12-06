@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
----
 ======
+---
 
-[](<p class="message">
+<!--<p class="message">
   Photo is coming!
-</p>)
+</p>-->
 
 ## Huiyong Li
 #### 李 慧勇 (り けいゆう)
