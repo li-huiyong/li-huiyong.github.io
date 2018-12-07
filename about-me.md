@@ -36,8 +36,6 @@ PhD student, Social Informatics
 2016.4-2017.3: Kyushu University International Student Supporter
 
 ### <span style="color: Salmon; ">Research Experience</span>
-2018.4-present: Doctoral Researcher in Graduate School of Informatics, Kyoto University, Japan
-
 2018.6-present: Research Assistant in Collaborative Graduate Program in Design, Kyoto University, Japan
 
 2018.5-present: Technical Assistant in Academic Center for Computing and Media Studies, Kyoto University, Japan
