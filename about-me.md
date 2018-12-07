@@ -25,20 +25,22 @@ PhD student, Social Informatics
 
 2016.4-2018.3: Master's Program in Graduate school of Information Science and Electrical Engineering, Kyushu University, Japan
 
-2007.9-2011.6: Bachelor of School of Software Technology, Dalian University of Technology, Dalian, China
+2007.9-2011.6: Bachelor of Science in Software Engineering, Dalian University of Technology, China
 
 ### <span style="color: Salmon; ">Employment</span>
-2011.7-2015.3: Senior Software Engineer in Dalian Hi-Think Computer Technology Corp., Dalian, China
+2011.7-2015.3: Senior Software Engineer in Dalian Hi-Think Computer Technology Corp., China
 
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
 2016.10-2018.3: Teaching Assistant, Information Science
 
-2016.4-2017.3: Kyushu University international student supporter
+2016.4-2017.3: Kyushu University International Student Supporter
 
 ### <span style="color: Salmon; ">Research Experience</span>
 2018.4-present: Doctoral Researcher in Graduate School of Informatics, Kyoto University, Japan
 
 2018.6-present: Research Assistant in Collaborative Graduate Program in Design, Kyoto University, Japan
+
+2018.5-present: Technical Assistant in Academic Center for Computing and Media Studies, Kyoto University, Japan
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2017.4-2018.3: Fukuoka City Rainbow Scholarship
@@ -49,3 +51,9 @@ PhD student, Social Informatics
 2017: Fukuoka Shika Island volunteer
 
 2017: Fukuoka Marathon 2017 volunteer
+
+### <span style="color: Salmon; ">Hobbies</span>
+* Cooking
+* Hiking
+* Badminton
+
