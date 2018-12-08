@@ -258,11 +258,30 @@ a.sidebar-nav-item:focus {
 .theme-base-0g .related-posts li a:hover {
   color: #003366;
 }
- /* Grey */
+
+/* Deep Blue 10% */
 .theme-base-0h .sidebar {
-  background-color: #666666;
+  background-color: #001a33;
 }
 .theme-base-0h .content a,
 .theme-base-0h .related-posts li a:hover {
+  color: #001a33;
+}
+
+/* Grey */
+.theme-base-0i .sidebar {
+  background-color: #666666;
+}
+.theme-base-0i .content a,
+.theme-base-0i .related-posts li a:hover {
   color: #666666;
+}
+
+/* Grey 20% */
+.theme-base-0j .sidebar {
+  background-color: #333333;
+}
+.theme-base-0j .content a,
+.theme-base-0j .related-posts li a:hover {
+  color: #333333;
 }
