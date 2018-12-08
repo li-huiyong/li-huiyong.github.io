@@ -250,7 +250,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* My own theme */
-/* Deep Blue */
+/* Deep blue 80% */
 .theme-base-0g .sidebar {
   background-color: #003366;
 }
@@ -259,7 +259,7 @@ a.sidebar-nav-item:focus {
   color: #003366;
 }
 
-/* Deep Blue 10% */
+/* Deep blue 90% */
 .theme-base-0h .sidebar {
   background-color: #001a33;
 }
@@ -268,7 +268,7 @@ a.sidebar-nav-item:focus {
   color: #001a33;
 }
 
-/* Grey */
+/* Grey 60% */
 .theme-base-0i .sidebar {
   background-color: #666666;
 }
@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
   color: #666666;
 }
 
-/* Grey 20% */
+/* Grey 80% */
 .theme-base-0j .sidebar {
   background-color: #333333;
 }
