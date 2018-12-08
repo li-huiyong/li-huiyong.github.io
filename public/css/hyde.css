@@ -248,3 +248,21 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* My own theme */
+/* Deep Blue */
+.theme-base-0g .sidebar {
+  background-color: #003366;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #003366;
+}
+ /* Grey */
+.theme-base-0h .sidebar {
+  background-color: #666666;
+}
+.theme-base-0h .content a,
+.theme-base-0h .related-posts li a:hover {
+  color: #666666;
+}
