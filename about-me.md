@@ -30,15 +30,18 @@ PhD student, Social Informatics
 ### <span style="color: Salmon; ">Employment</span>
 2011.7-2015.3: Senior Software Engineer in Dalian Hi-Think Computer Technology Corp., China
 
-### <span style="color: Salmon; ">Teaching and Mentoring</span>
-2016.10-2018.3: Teaching Assistant, Information Science
-
-2016.4-2017.3: Kyushu University International Student Supporter
-
 ### <span style="color: Salmon; ">Research Experience</span>
 2018.6-present: Research Assistant in Collaborative Graduate Program in Design, Kyoto University, Japan
 
 2018.5-present: Technical Assistant in Academic Center for Computing and Media Studies, Kyoto University, Japan
+
+### <span style="color: Salmon; ">Academic Society</span>
+2018-present: APSCE Student Wing Committee, Co-Chair
+
+### <span style="color: Salmon; ">Teaching and Mentoring</span>
+2016.10-2018.3: Teaching Assistant, Information Science
+
+2016.4-2017.3: Kyushu University International Student Supporter
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2017.4-2018.3: Fukuoka City Rainbow Scholarship
