@@ -21,22 +21,24 @@ PhD student, Social Informatics
 * Technology Enhanced Learning
 
 ### <span style="color: Salmon; ">Education</span>
-2018.4-present: PhD student in Graduate School of Informatics, Kyoto University, Japan
+2018.4-present: Doctoral Program, [Graduate School of Informatics](http://www.soc.i.kyoto-u.ac.jp/en/){:target="_blank"}, [Kyoto University](https://www.kyoto-u.ac.jp/en/){:target="_blank"}
 
-2016.4-2018.3: Master's Program in Graduate school of Information Science and Electrical Engineering, Kyushu University, Japan
+2016.4-2018.3: Master's Program, [Graduate school of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
 
-2007.9-2011.6: Bachelor of Science in Software Engineering, Dalian University of Technology, China
+2015.4-2016.3: Research Student, [Graduate school of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
+
+2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
 ### <span style="color: Salmon; ">Employment</span>
-2011.7-2015.3: Senior Software Engineer in Dalian Hi-Think Computer Technology Corp., China
+2011.7-2015.3: Senior Software Engineer, [Dalian Hi-Think Computer Technology Corp.](http://www.dhc.com.cn/en/index.action){:target="_blank"}
 
 ### <span style="color: Salmon; ">Research Experience</span>
-2018.6-present: Research Assistant in Collaborative Graduate Program in Design, Kyoto University, Japan
+2018.6-present: Research Assistant, [Collaborative Graduate Program in Design](http://www.design.kyoto-u.ac.jp/education/overview/){:target="_blank"}, Kyoto University
 
-2018.5-present: Technical Assistant in Academic Center for Computing and Media Studies, Kyoto University, Japan
+2018.5-present: Technical Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
 
 ### <span style="color: Salmon; ">Academic Society</span>
-2018-present: APSCE Student Wing Committee, Co-Chair
+2018-present: Co-Chair, [APSCE Student Wing Committee](http://www.apsce.net/member_2.php?id=32){:target="_blank"}
 
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
 2016.10-2018.3: Teaching Assistant, Information Science
