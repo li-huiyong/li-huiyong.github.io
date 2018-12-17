@@ -11,7 +11,7 @@ ___
 
 ## Huiyong Li
 <!--#### 李 慧勇 (り けいゆう)-->
-PhD student, Social Informatics
+PhD student, Social Informatics - Kyoto University
 
 ### <span style="color: Salmon; ">Research interests</span>
 * Learning Analytics
