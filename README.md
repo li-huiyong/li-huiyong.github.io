@@ -13,5 +13,5 @@ Welcome to my site: https://li-huiyong.github.io/
 * My CV (pdf)
 
 
-## Page counter
+## Project views
 [![HitCount](http://hits.dwyl.io/li-huiyong/li-huiyong.svg)](http://hits.dwyl.io/li-huiyong/li-huiyong)
