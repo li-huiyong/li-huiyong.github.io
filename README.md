@@ -11,3 +11,7 @@ Welcome to my site: https://li-huiyong.github.io/
 ### v1.1
 * Skills
 * My CV (pdf)
+
+
+## Page counter
+[![HitCount](http://hits.dwyl.io/li-huiyong/li-huiyong.svg)](http://hits.dwyl.io/li-huiyong/li-huiyong)
