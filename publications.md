@@ -13,7 +13,7 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-1. Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Brendan Flanagan, Hiroaki Ogata. **Extracting Self-Direction Strategies and Representing Practices in GOAL System.** _Companion Proceedings of the 9th International Conference on Learning Analytics and Knowledge (LAK’19),_ 2019.03. [PDF](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System){:target="_blank"}
+1. Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Brendan Flanagan, Hiroaki Ogata. **Extracting Self-Direction Strategies and Representing Practices in GOAL System.** _Companion Proceedings of the 9th International Conference on Learning Analytics and Knowledge (LAK’19),_  pp.670-678, 2019.03. [PDF](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System){:target="_blank"}
 
 2. Rwitajit Majumdar, Yuan Yuan Yang, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. **GOAL: Supporting Learner's Development of Self-Direction Skills using Health and Learning Data.** _Proceedings of the 26th International Conference on Computers in Education (ICCE2018),_ pp.406-415, 2018.11. [PDF](http://icce2018.ateneo.edu/wp-content/uploads/2018/12/C4-05.pdf){:target="_blank"}
 
