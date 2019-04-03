@@ -287,7 +287,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* News title */
-.news-title h1 {
+.news-title {
   color: #303030;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
