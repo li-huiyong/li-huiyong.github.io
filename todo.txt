@@ -4,7 +4,7 @@ My CV
 Visualization
 Personalization Map (google/baidu api)
 My history
-Posts (goal, music, life)
+Posts (goal, music, life) or projects with image and abstract
 Photos
 Hobby
 GitHub page counter
