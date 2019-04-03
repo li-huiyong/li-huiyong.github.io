@@ -1,9 +1,11 @@
 ---
 layout: index
-title: News
 ---
 
-News
+<div class="page">
+  <h1 class="page-title">News</h1>
+  {{ content }}
+</div>
 
 ___
 
