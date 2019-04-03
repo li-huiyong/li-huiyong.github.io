@@ -2,8 +2,6 @@
 layout: index
 ---
 
-# <span style="color: #303030;">News</span>
-
 ___
 
 * 12/2018: Welcome to my new home!
