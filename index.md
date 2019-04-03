@@ -1,7 +1,6 @@
 ---
 layout: index
-title: Home
-top: News
+title: News
 ---
 
 News
