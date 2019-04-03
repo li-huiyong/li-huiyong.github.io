@@ -1,7 +1,8 @@
 ---
 layout: index
-title: News
 ---
+
+# <span style="color: #303030;">News</span>
 
 ___
 
