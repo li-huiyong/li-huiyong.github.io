@@ -1,6 +1,5 @@
 # li-huiyong.github.io
-Welcome to my site: https://li-huiyong.github.io/
-
+Welcome to [my website](https://li-huiyong.github.io/)!
 ## Update
 ### v1.0
 * Home
