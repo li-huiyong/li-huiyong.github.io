@@ -1,6 +1,6 @@
 # Future work
 Skills
-My CV
+My CV https://webjeda.com/online-cv/
 Visualization
 Personalization Map (google/baidu api)
 My history
