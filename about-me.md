@@ -13,7 +13,7 @@ ___
 <!--#### 李 慧勇 (り けいゆう)-->
 PhD student, Social Informatics - Kyoto University
 
-<i class="fa fa-envelope" aria-hidden="true"></i>lihuiyong123 [at] gmail.com
+<i class="fa fa-envelope" aria-hidden="true"></i> lihuiyong123 [at] gmail.com
 
 ### <span style="color: Salmon; ">Research interests</span>
 * Learning Analytics
