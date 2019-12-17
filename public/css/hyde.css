@@ -83,6 +83,11 @@ html {
   font-size: 2.5rem;
 }
 
+/* Sidebar avatar */
+.sidebar-avatar {
+  margin: 3rem;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
