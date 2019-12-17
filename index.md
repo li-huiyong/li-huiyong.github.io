@@ -8,6 +8,8 @@ ___
 
 * 10/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for university and school students. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
 
+* 9/2019: Paper on **Promoting Students’ Self Direction Skills through Scaffolding with Learning and Physical Activity Data** was accepted to Doctoral Student Consortium of [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
+
 * 7/2019: Paper on [**Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context**](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context) was accepted to [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
 
 * 4/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for international users.
