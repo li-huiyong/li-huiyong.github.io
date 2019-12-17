@@ -13,6 +13,12 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context.** _Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.300-305, 2019.12. [PDF](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context){:target="_blank"}
+
+* Huiyong Li. (2019). **Promoting Students’ Self Direction Skills through Scaffolding with Learning and Physical Activity Data.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.791-794, 2019.12.
+
+* Yuan Yuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Measuring Analysis Skill in Data-informed Self-directed Activities.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.335-343, 2019.12. [PDF](https://www.researchgate.net/publication/337745791_Measuring_Analysis_Skill_in_Data-informed_Self-directed_Activities){:target="_blank"}
+
 * Rwitajit Majumdar, Yuan Yuan Yang, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Adaptive Support for Acquisition of Self-direction Skills using Learning and Health Data.** _Proceedings of the 19th IEEE International Conference on Advanced Learning Technologies (ICALT2019),_ pp.54-56, 2019.07. [PDF](https://www.researchgate.net/profile/Goekhan_Akcapinar/publication/334625128_Adaptive_Support_for_Acquisition_of_Self-direction_Skills_using_Learning_and_Health_Data/links/5d369c00a6fdcc370a57828c/Adaptive-Support-for-Acquisition-of-Self-direction-Skills-using-Learning-and-Health-Data.pdf){:target="_blank"}
 
 * Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Brendan Flanagan, Hiroaki Ogata. (2019). **Extracting Self-Direction Strategies and Representing Practices in GOAL System.** _Companion Proceedings of the 9th International Conference on Learning Analytics and Knowledge (LAK19),_  Tempe, USA, 2019.03. [PDF](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System){:target="_blank"}
