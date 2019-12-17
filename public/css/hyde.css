@@ -85,7 +85,9 @@ html {
 
 /* Sidebar avatar */
 .sidebar-avatar {
-  margin: 3rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 /* Sidebar nav */
