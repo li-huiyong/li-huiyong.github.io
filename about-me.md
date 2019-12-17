@@ -40,7 +40,7 @@ PhD student, Social Informatics - Kyoto University
 2018.5-2019.3: Technical Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
 
 ### <span style="color: Salmon; ">Academic Society</span>
-2018-Present: Co-Chair, [APSCE Student Wing Committee](http://www.apsce.net/member_2.php?id=32){:target="_blank"}
+2018-2019: Co-Chair, [APSCE Student Wing Committee](http://www.apsce.net/member_2.php?id=32){:target="_blank"}
 
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
 2016.10-2018.3: Teaching Assistant, Information Science
@@ -60,7 +60,8 @@ PhD student, Social Informatics - Kyoto University
 2019: Kyoto Marathon 2019 volunteer
 
 ### <span style="color: Salmon; ">Hobbies</span>
-* Cooking
 * Hiking
+* Nihon Buyo
+* Cooking
 * Badminton
 
