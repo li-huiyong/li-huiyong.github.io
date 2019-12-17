@@ -9,7 +9,7 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [PDF](https://rdcu.be/bcFJv){:target="_blank"}[bibtex](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
+* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [PDF](https://rdcu.be/bcFJv){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
 
 ### <span style="color: Salmon; ">International Conference</span>
 
