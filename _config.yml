@@ -10,7 +10,8 @@ tagline:          'Site'
 description:      'A PhD student of Informatics at Kyoto University. Research on Learning Analytics, Self-Regulated Learning, Self-Directed Learning, and Technology Enhanced Learning.'
 url:              https://li-huiyong.github.io
 baseurl:          https://li-huiyong.github.io/
-update:           8/2019
+update:           12/2019
+avatarurl:        https://li-huiyong.github.io/resources/avatar2019.png
 
 #author:
 #  name:           'Mark Otto'
