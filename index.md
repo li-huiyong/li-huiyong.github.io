@@ -6,11 +6,11 @@ layout: index
 
 ___
 
-* 8/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released v1.0. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
+* 10/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for university and school students. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
 
-* 7/2019: Paper on Modeling Self-Planning Skills was accepted to [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
+* 7/2019: Paper on [**Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context**](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context) was accepted to [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
 
-* 4/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released v0.1.
+* 4/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for international users.
 
 * 1/2019: Paper on [**Extracting Self-Direction Strategies and Representing Practices in GOAL System**](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System) was accepted to [TEEL-LAK19](https://sites.google.com/view/teel-workshop/lak19).
 
