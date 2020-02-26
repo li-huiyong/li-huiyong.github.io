@@ -6,6 +6,8 @@ layout: index
 
 ___
 
+* 2/2020: Poster on **LET's GOAL: Toward to Goal Oriented Active Learner** was awarded Outstanding Research Award of [Kyoto University ICT Innovation Symposium](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/14th/).
+
 * 10/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for university and school students. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
 
 * 9/2019: Paper on **Promoting Students’ Self Direction Skills through Scaffolding with Learning and Physical Activity Data** was accepted to Doctoral Student Consortium of [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
