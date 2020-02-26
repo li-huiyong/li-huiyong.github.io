@@ -28,3 +28,8 @@ ___
 * Huiyong Li, Hiroaki Ogata, Tomoyuki Tsuchiya, Yubun Suzuki, Satoru Uchida. (2017). **Using Learning Analytics to Support Computer-Assisted Language Learning.** _Proceedings of the 25th International Conference on Computers in Education (ICCE 2017),_ pp.908-913, 2017.12. [PDF](https://www.researchgate.net/profile/Huiyong_Li5/publication/321874981_Using_Learning_Analytics_to_Support_Computer-Assisted_Language_Learning/links/5a378b77a6fdcc769fd82f98/Using-Learning-Analytics-to-Support-Computer-Assisted-Language-Learning.pdf){:target="_blank"}
 
 * Huiyong Li, Tomiyuki Tsuchiya, Daiki Suehiro, Yuta Taniguchi, Atsushi Shimada, Yubun Suzuki, Hiroshi Ohashi, Hiroaki Ogata. (2017). **Behavioral Analysis and Visualization on Learning Logs from the CALL Course.** _The 31st Annual Conference of the Japanese Society for Artificial Intelligence,_ 1F1OS26a1, 2017.05. [PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2017/0/JSAI2017_1F1OS26a1/_pdf){:target="_blank"}
+
+
+### <span style="color: Salmon; ">Presentation</span>
+
+* Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** [_The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/14th/) (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
