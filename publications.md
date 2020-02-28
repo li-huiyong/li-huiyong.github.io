@@ -32,4 +32,4 @@ ___
 
 ### <span style="color: Salmon; ">Presentation</span>
 
-* Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** [_The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/14th/) (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
+* Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** _The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._ (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
