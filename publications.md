@@ -15,11 +15,11 @@ ___
 
 * Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Hiroaki Ogata. (2020). **Design of a Self-Reflection Model in GOAL to Support Students' Reflection.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.330-335, 2020.11. [PDF](https://www.researchgate.net/publication/347114782_Design_of_a_Self-Reflection_Model_in_GOAL_to_Support_Students'_Reflection){:target="_blank"}
 
-* Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.394-399, 2020.11.
+* Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.394-399, 2020.11. [PDF](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259786){:target="_blank"}
 
 * Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context.** _Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.300-305, 2019.12. [PDF](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context){:target="_blank"}
 
-* Huiyong Li. (2019). **Promoting Students’ Self Direction Skills through Scaffolding with Learning and Physical Activity Data.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.791-794, 2019.12.
+* Huiyong Li. (2019). **Promoting Students’ Self-Direction Skills through Scaffolding with Learning and Physical Activity Data.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.791-794, 2019.12.
 
 * Yuan Yuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Measuring Analysis Skill in Data-informed Self-directed Activities.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.335-343, 2019.12. [PDF](https://www.researchgate.net/publication/337745791_Measuring_Analysis_Skill_in_Data-informed_Self-directed_Activities){:target="_blank"}
 
