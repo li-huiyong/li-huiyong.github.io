@@ -6,6 +6,13 @@ layout: index
 
 ___
 
+* 4/2021: Work as program-specific researcher at [Learning and Educational Technologies Research Unit](https://www.let.media.kyoto-u.ac.jp/en/), [Academic Center for Computing and Media Studies (ACCMS)](https://www.media.kyoto-u.ac.jp/accms_web/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en).
+
+* 3/2021: Received my **Ph.D. in Informatics** from Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en).
+
+* 7/2020: Paper on [**Design of a Self-Reflection Model in GOAL to Support Students' Reflection**](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259785) was accepted to [ICCE2020](https://apsce.net/icce/icce2020/index.html).
+
+
 * 2/2020: Poster on **LET's GOAL: Toward to Goal Oriented Active Learner** was awarded Outstanding Research Award of [Kyoto University ICT Innovation Symposium](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/14th/).
 
 * 10/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for university and school students. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
