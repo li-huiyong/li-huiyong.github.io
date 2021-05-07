@@ -6,7 +6,7 @@ layout: index
 
 ___
 
-* 4/2021: Work as program-specific researcher at [Learning and Educational Technologies Research Unit](https://www.let.media.kyoto-u.ac.jp/en/), [Academic Center for Computing and Media Studies (ACCMS)](https://www.media.kyoto-u.ac.jp/accms_web/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en).
+* 4/2021: Work as a program-specific researcher at [Learning and Educational Technologies Research Unit](https://www.let.media.kyoto-u.ac.jp/en/), [Academic Center for Computing and Media Studies (ACCMS)](https://www.media.kyoto-u.ac.jp/accms_web/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
 * 3/2021: Received my **Ph.D. in Informatics** from Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
