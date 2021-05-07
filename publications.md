@@ -13,6 +13,8 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021) **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ pp.79-81, 2021.04. 
+
 * Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Hiroaki Ogata. (2020). **Design of a Self-Reflection Model in GOAL to Support Students' Reflection.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.330-335, 2020.11. [PDF](https://www.researchgate.net/publication/347114782_Design_of_a_Self-Reflection_Model_in_GOAL_to_Support_Students'_Reflection){:target="_blank"}
 
 * Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.394-399, 2020.11. [PDF](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259786){:target="_blank"}
