@@ -19,6 +19,8 @@ ___
 
 * Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.394-399, 2020.11. [PDF](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259786){:target="_blank"}
 
+* Rwitajit Majumdar, Huiyong Li, Yuan Yuan Yang, Brendan Flanagan, Gokhan Akçapınar, Hiroaki Ogata. (2020). **Oh! Another Deadline: Cohort Analysis of Learner’s Behaviors in Self-Directed Tasks.** _Proceedings of the IEEE 20th International Conference on Advanced Learning Technologies (ICALT2020),_ pp.259-261, 2020.07. [PDF](https://ieeexplore.ieee.org/abstract/document/9155921){:target="_blank"}
+
 * Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context.** _Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.300-305, 2019.12. [PDF](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context){:target="_blank"}
 
 * Huiyong Li. (2019). **Promoting Students’ Self-Direction Skills through Scaffolding with Learning and Physical Activity Data.** _Workshop Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.791-794, 2019.12.
