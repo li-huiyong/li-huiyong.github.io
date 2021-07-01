@@ -9,9 +9,10 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 5.296)
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, online._ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 1.938)
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, online._ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 3.928)
+
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 8.538)
 
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [PDF](https://rdcu.be/bcFJv){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
 
