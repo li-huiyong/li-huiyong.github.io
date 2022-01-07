@@ -43,13 +43,13 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 2018.5-2019.3: Technical Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
 
 ### <span style="color: Salmon; ">Academic Society</span>
-2022: co-chair, LAK22 Data Challenge workshop
+2022: Co-chair, LAK22 Data Challenge workshop
 
 2022: PC member, GCCCE2022
 
-2021: chair, LA@ICCE2021 workshop
+2021: Chair, LA@ICCE2021 workshop
 
-2021-: reviewer, Research and Practice in Technology Enhanced Learning (RPTEL)
+2021-: Reviewer, Research and Practice in Technology Enhanced Learning (RPTEL)
 
 2018-2019: Co-Chair, APSCE Student Wing
 
