@@ -16,7 +16,17 @@ ___
 
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [PDF](https://rdcu.be/bcFJv){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
 
+* Mei-Rong Alice Chen, Yi-Hsuan Lin, Gwo-Jen Hwang, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. **A reading engagement-promoting strategy to facilitate EFL students’ mobile learning achievement, behavior, and engagement.** _International Journal of Mobile Learning and Organisation._ (in press)
+
+* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [PDF](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"}
+
 ### <span style="color: Salmon; ">International Conference</span>
+
+* Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ ACM, New York, USA. https://doi.org/10.1145/3506860.3506889
+
+* Rwitajit MAJUMDAR, Duygu ŞAHIN, Yuanyuan YANG, Huiyong Li. (2021). **Preparations for Multimodal Analytics of an Enactive Critical Thinking Episode.** _Proceedings of the 29th International Conference on Computers in Education (ICCE2021),_ pp.292-301, 2021.11. [PDF](https://icce2021.apsce.net/wp-content/uploads/2021/12/ICCE2021-Vol.II-PP.-292-301.pdf){:target="_blank"}
+
+* Rwitajit Majumdar, Aditi Kothiyal, Shitanshu Mishra, Prajakt Pande, Huiyong Li, Yuanyuan Yang, Jayakrishnan Madathil Warriem. (2021). **Design of a Critical Thinking Task Environment based on ENaCT framework.** _In 2021 International Conference on Advanced Learning Technologies (ICALT)_ (pp. 294-296). IEEE. https://10.1109/ICALT52272.2021.00095
 
 * Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021) **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ pp.79-81, 2021.04. 
 
