@@ -9,16 +9,16 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-
 * Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, online._ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 3.928)
 
 * Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 8.538)
 
-* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [PDF](https://rdcu.be/bcFJv){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
+* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
 
-* Mei-Rong Alice Chen, Yi-Hsuan Lin, Gwo-Jen Hwang, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. **A reading engagement-promoting strategy to facilitate EFL students’ mobile learning achievement, behavior, and engagement.** _International Journal of Mobile Learning and Organisation._ (in press)
+* Mei-Rong Alice Chen, Yi-Hsuan Lin, Gwo-Jen Hwang, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. **A reading engagement-promoting strategy to facilitate EFL students’ mobile learning achievement, behavior, and engagement.** _International Journal of Mobile Learning and Organisation._ (in press) [DOI]
 
-* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [PDF](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"}
+* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"}
+
 
 ### <span style="color: Salmon; ">International Conference</span>
 
