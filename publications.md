@@ -52,7 +52,10 @@ ___
 
 * Huiyong Li, Tomiyuki Tsuchiya, Daiki Suehiro, Yuta Taniguchi, Atsushi Shimada, Yubun Suzuki, Hiroshi Ohashi, Hiroaki Ogata. (2017). **Behavioral Analysis and Visualization on Learning Logs from the CALL Course.** _The 31st Annual Conference of the Japanese Society for Artificial Intelligence,_ 1F1OS26a1, 2017.05. [PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2017/0/JSAI2017_1F1OS26a1/_pdf){:target="_blank"}
 
+### <span style="color: Salmon; ">Invited Talk</span>
 
-### <span style="color: Salmon; ">Presentation</span>
+* The Design and Practice of Learning Analytics for Foreign Language Teaching and Learning with BookRoll. _DUT-KU Joint Workshop 2019 on Learning Analytics._ Sep 8, 2019, Dalian, China.
+
+### <span style="color: Salmon; ">Poster Presentation</span>
 
 * Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** _The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._ (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
