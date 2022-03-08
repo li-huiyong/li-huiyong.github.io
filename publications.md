@@ -9,9 +9,9 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 8.538)
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021goal.bib){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 8.538)
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, online._ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 3.928)
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, online._ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021analysis.bib){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 3.928)
 
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
 
@@ -22,7 +22,7 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ ACM, New York, USA. https://doi.org/10.1145/3506860.3506889
+* Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ pp.472-477, ACM, New York, USA. [DOI](https://doi.org/10.1145/3506860.3506889){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2022self.bib){:target="_blank"}
 
 * Rwitajit MAJUMDAR, Duygu ŞAHIN, Yuanyuan YANG, Huiyong Li. (2021). **Preparations for Multimodal Analytics of an Enactive Critical Thinking Episode.** _Proceedings of the 29th International Conference on Computers in Education (ICCE2021),_ pp.292-301, 2021.11. [PDF](https://icce2021.apsce.net/wp-content/uploads/2021/12/ICCE2021-Vol.II-PP.-292-301.pdf){:target="_blank"}
 
