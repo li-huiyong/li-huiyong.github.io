@@ -22,19 +22,19 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ pp.472-477, ACM, New York, USA. [DOI](https://doi.org/10.1145/3506860.3506889){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2022self.bib){:target="_blank"}
+* Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ pp.472-477, ACM, New York, USA. [BibTeX](https://li-huiyong.github.io/resources/li2022self.bib){:target="_blank"} https://doi.org/10.1145/3506860.3506889
 
 * Rwitajit MAJUMDAR, Duygu ŞAHIN, Yuanyuan YANG, Huiyong Li. (2021). **Preparations for Multimodal Analytics of an Enactive Critical Thinking Episode.** _Proceedings of the 29th International Conference on Computers in Education (ICCE2021),_ pp.292-301, 2021.11. [PDF](https://icce2021.apsce.net/wp-content/uploads/2021/12/ICCE2021-Vol.II-PP.-292-301.pdf){:target="_blank"}
 
 * Rwitajit Majumdar, Aditi Kothiyal, Shitanshu Mishra, Prajakt Pande, Huiyong Li, Yuanyuan Yang, Jayakrishnan Madathil Warriem. (2021). **Design of a Critical Thinking Task Environment based on ENaCT framework.** _In 2021 International Conference on Advanced Learning Technologies (ICALT)_ (pp. 294-296). IEEE. https://10.1109/ICALT52272.2021.00095
 
-* Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021) **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ pp.79-81, 2021.04. 
+* Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021) **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ pp.79-81, 2021.04. [PDF](https://www.researchgate.net/publication/357648683_Enabling_Multimodal_Reading_Analytics_through_GOAL_Platform)
 
 * Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Hiroaki Ogata. (2020). **Design of a Self-Reflection Model in GOAL to Support Students' Reflection.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.330-335, 2020.11. [PDF](https://www.researchgate.net/publication/347114782_Design_of_a_Self-Reflection_Model_in_GOAL_to_Support_Students'_Reflection){:target="_blank"}
 
 * Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ pp.394-399, 2020.11. [PDF](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259786){:target="_blank"}
 
-* Rwitajit Majumdar, Huiyong Li, Yuan Yuan Yang, Brendan Flanagan, Gokhan Akçapınar, Hiroaki Ogata. (2020). **Oh! Another Deadline: Cohort Analysis of Learner’s Behaviors in Self-Directed Tasks.** _Proceedings of the IEEE 20th International Conference on Advanced Learning Technologies (ICALT2020),_ pp.259-261, 2020.07. [PDF](https://ieeexplore.ieee.org/abstract/document/9155921){:target="_blank"}
+* Rwitajit Majumdar, Huiyong Li, Yuan Yuan Yang, Brendan Flanagan, Gokhan Akçapınar, Hiroaki Ogata. (2020). **Oh! Another Deadline: Cohort Analysis of Learner’s Behaviors in Self-Directed Tasks.** _Proceedings of the IEEE 20th International Conference on Advanced Learning Technologies (ICALT2020),_ pp.259-261, 2020.07. https://ieeexplore.ieee.org/abstract/document/9155921
 
 * Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context.** _Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ pp.300-305, 2019.12. [PDF](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context){:target="_blank"}
 
@@ -52,9 +52,13 @@ ___
 
 * Huiyong Li, Tomiyuki Tsuchiya, Daiki Suehiro, Yuta Taniguchi, Atsushi Shimada, Yubun Suzuki, Hiroshi Ohashi, Hiroaki Ogata. (2017). **Behavioral Analysis and Visualization on Learning Logs from the CALL Course.** _The 31st Annual Conference of the Japanese Society for Artificial Intelligence,_ 1F1OS26a1, 2017.05. [PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2017/0/JSAI2017_1F1OS26a1/_pdf){:target="_blank"}
 
+
 ### <span style="color: Salmon; ">Invited Talk</span>
 
+* Learning Analytics and Self-Direction Skill Cultivation. _Public Symposium on the Latest Trends in Learning Analytics Research and Practice._ March 13, 2022, Kyoto, Japan. https://eds.let.media.kyoto-u.ac.jp/?page_id=3319
+
 * The Design and Practice of Learning Analytics for Foreign Language Teaching and Learning with BookRoll. _DUT-KU Joint Workshop 2019 on Learning Analytics._ Sep 8, 2019, Dalian, China.
+
 
 ### <span style="color: Salmon; ">Poster Presentation</span>
 
