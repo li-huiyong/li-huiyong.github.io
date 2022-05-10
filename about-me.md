@@ -43,6 +43,8 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 2011.7-2015.3: Senior Software Engineer, [Dalian Hi-Think Computer Technology Corp.](http://www.dhc.com.cn/?_l=en){:target="_blank"}
 
 ### <span style="color: Salmon; ">Academic Society</span>
+2022: PC member, ICAIE2022
+
 2022: Co-chair, LAK22 Data Challenge workshop
 
 2022: PC member, GCCCE2022
@@ -53,14 +55,16 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 2018-2019: Co-Chair, APSCE Student Wing
 
-2022-: Reviewer, Educational Technology & Society (ET&S), Humanities & Social Sciences Communications (Humanit Soc Sci Commun) 
+2022-: Reviewer, Educational Technology & Society (ET&S), Humanities & Social Sciences Communications (Humanit Soc Sci Commun), Journal of Japan Society for Educational Technology (JSET) 
 
 2021-: Reviewer, Research and Practice in Technology Enhanced Learning (RPTEL)
 
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
-2016.10-2018.3: Teaching Assistant, Information Science
+2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
 
-2016.4-2017.3: Kyushu University International Student Supporter
+2016.10-2018.3: Teaching Assistant, Information Science, Kyushu University
+
+2016.4-2017.3: International Student Supporter, Kyushu University
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
