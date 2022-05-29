@@ -10,4 +10,6 @@ ___
 * [ORCID](https://orcid.org/0000-0001-9916-7908){:target="_blank"}
 * [Academia](https://kyoto-u.academia.edu/HuiyongLi){:target="_blank"}
 * [Publons](https://publons.com/researcher/1814352){:target="_blank"}
+* [researchmap](https://researchmap.jp/lihuiyong){:target="_blank"}
+* [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Github](https://github.com/li-huiyong){:target="_blank"}
