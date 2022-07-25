@@ -1,10 +1,14 @@
-# Future work
-Skills
-My CV https://webjeda.com/online-cv/
+# Future work  
+Brief Website https://lindh.github.io/  https://themes.gohugo.io/themes/hugo-researcher/
+https://alorchhota.github.io/post/2021-01-26_personal_website/ https://nataliaumansky.github.io/post/2020_academic_website.pdf
+https://github.com/dmsl/academic-responsive-template  
+My CV https://webjeda.com/online-cv/   https://lindh.github.io/files/CV_ja.pdf
 Visualization
 Personalization Map (google/baidu api)
 My history
 Posts (goal, music, life) or projects with image and abstract
-Photos
+Interesting Photos
+Web page counter
+Skills
 Hobby
-GitHub page counter
+
