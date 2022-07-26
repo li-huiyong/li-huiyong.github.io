@@ -73,6 +73,9 @@ ___
 
 ### <span style="color: Salmon; ">Invited Talk</span>
 
+
+* Cultivating Self-Direction Skill using Learning Analytics and Artificial Intelligence. _New Education Expo 2022._ June 3, 2022, Tokyo, Japan. https://edu-expo.org/registration/2022/index.php?hall=T&new=true
+
 * Learning Analytics and Self-Direction Skill Cultivation. _Public Symposium on the Latest Trends in Learning Analytics Research and Practice._ March 13, 2022, Kyoto, Japan. https://eds.let.media.kyoto-u.ac.jp/?page_id=3319
 
 * The Design and Practice of Learning Analytics for Foreign Language Teaching and Learning with BookRoll. _DUT-KU Joint Workshop 2019 on Learning Analytics._ Sep 8, 2019, Dalian, China.
