@@ -28,7 +28,7 @@ ___
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2022). **Extracting Students’ Self-Regulation Strategies in an Online Extensive Reading Environment using the Experience API (xAPI)** _Proceedings of the 30th International Conference on Computers in Education (ICCE2022),_ (accepted)
 
-* Chia-Yu Hsu, Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Extensive Reading at Home: Extracting Self-directed Reading Habits from Learning Logs** _The 23rd International Conference on Artificial Intelligence in Education (AIED2022)_ (accepted)
+* Chia-Yu Hsu, Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Extensive Reading at Home: Extracting Self-directed Reading Habits from Learning Logs** _The 23rd International Conference on Artificial Intelligence in Education (AIED2022),_ pp.614–619. https://doi.org/10.1007/978-3-031-11644-5_57
 
 * Rwitajit Majumdar, Naomichi Tanimura, Yukihiro Arakawa, Yuta Nakamizo, Brendan Flanagan, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Learning at a Cafe and Learning at a Lab: Integrating Learning Logs with Smart Eyewear and Environmental Sensor Data.** _In 2022 International Conference on Advanced Learning Technologies (ICALT)_ IEEE. (accepted)
 
@@ -38,7 +38,7 @@ ___
 
 * Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Brendan Flanagan and Hiroaki Ogata. (2022) **GOAL System to Support In-class Reading Activity: A Study of Advanced and Standard EFL Learners** _1st APSCE International Conference on Future Language Learning (ICFULL2022)_ (accepted)
 
-* Brendan Flanagan, Rwitajit Majumdar, Huiyong Li, Atsushi Shimada, Fumiya Okubo, Hiroaki Ogata. (2022). The 4th Workshop on Predicting Performance Based on the Analysis of Reading Behavior. Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge. http://ceur-ws.org/Vol-3120/
+* Brendan Flanagan, Rwitajit Majumdar, Huiyong Li, Atsushi Shimada, Fumiya Okubo, Hiroaki Ogata. (2022). **The 4th Workshop on Predicting Performance Based on the Analysis of Reading Behavior.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge._ http://ceur-ws.org/Vol-3120/
 
 * Jiayu Li, Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2022). **Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance.** _Proceedings of the 12th International Learning Analytics and Knowledge Conference (LAK22),_ pp.472-477, ACM, New York, USA. [BibTeX](https://li-huiyong.github.io/resources/li2022self.bib){:target="_blank"} https://doi.org/10.1145/3506860.3506889
 
