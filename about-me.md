@@ -55,19 +55,19 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 * Reviewer of Sustainability (SCI, SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
-### <span style="color: Salmon; ">Teaching and Mentoring</span>
-2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
-
-2016.10-2018.3: Teaching Assistant, Information Science, Kyushu University
-
-2016.4-2017.3: International Student Supporter, Kyushu University
-
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
 
 2018.6-2020.5: Chinese Government Graduate Student Overseas Study Program Scholarship
 
 2017.4-2018.3: Fukuoka City Rainbow Scholarship
+
+### <span style="color: Salmon; ">Teaching and Mentoring</span>
+2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
+
+2016.10-2018.3: Teaching Assistant, Information Science, Kyushu University
+
+2016.4-2017.3: International Student Supporter, Kyushu University
 
 ### <span style="color: Salmon; ">Volunteering</span>
 2019: Kyoto Marathon 2019 volunteer
