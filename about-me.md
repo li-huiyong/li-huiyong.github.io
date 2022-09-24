@@ -47,7 +47,7 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 * Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
-* Co-Chair of APSCE LAEDM SIG 2022, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop 2019 on LA, APSCE Student Wing 2018
+* Co-Chair of APSCE LAEDM SIG 2022, EDE SIG1 2022, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
 * PC Member of LAK23, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
