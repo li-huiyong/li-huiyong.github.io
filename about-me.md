@@ -17,8 +17,9 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 ### <span style="color: Salmon; ">Areas of Research</span>
 * Learning Analytics
-* Self-Regulated Learning
 * Self-Directed Learning
+* Self-Regulated Learning
+* Learning Design
 * Technology Enhanced Language Learning
 
 ### <span style="color: Salmon; ">Academic Education</span>
@@ -43,21 +44,16 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 2011.7-2015.3: Senior Software Engineer, [Dalian Hi-Think Computer Technology Corp.](http://www.dhc.com.cn/?_l=en){:target="_blank"}
 
 ### <span style="color: Salmon; ">Academic Society</span>
-2022: PC member, ICAIE2022
 
-2022: Co-chair, LAK22 Data Challenge workshop
+* Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
-2022: PC member, GCCCE2022
+* Co-Chair of APSCE LAEDM SIG 2022, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop 2019 on LA, APSCE Student Wing 2018
 
-2021: Chair, LA@ICCE2021 workshop
+* PC Member of LAK23, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
-2019: Chair, DUT-KU Joint Workshop 2019 on Learning Analytics
+* Member of APSCE 2017-2022, SoLAR 2019
 
-2018-2019: Co-Chair, APSCE Student Wing
-
-2022-: Reviewer, Educational Technology & Society (ET&S), Humanities & Social Sciences Communications (Humanit Soc Sci Commun), Journal of Japan Society for Educational Technology (JSET) 
-
-2021-: Reviewer, Research and Practice in Technology Enhanced Learning (RPTEL)
+* Reviewer of Sustainability (SCI, SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
 2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
