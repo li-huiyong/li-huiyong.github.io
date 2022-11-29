@@ -73,7 +73,7 @@ ___
 
 ### <span style="color: Salmon; ">Invited Talk</span>
 
-* Goal-oriented Active Learning (GOAL) System to Promote Reading Engagement, Self-directed Learning Behavior, and Motivation in Extensive Reading. Top Conference Session 3-2, _FIT2022_, Sep 13, 2022, Tokyo, Japan. https://onsite.gakkai-web.net/fit2022/online/data/html/event/event_TCS3-2.html
+* Goal-oriented Active Learning (GOAL) System to Promote Reading Engagement, Self-directed Learning Behavior, and Motivation in Extensive Reading. Top Conference Session 3-2, _FIT2022_, Sep 13, 2022, Tokyo, Japan. https://onsite.gakkai-web.net/fit2022/abstract/data/html/event/event_TCS3-2.html
 
 * Cultivating Self-Direction Skill using Learning Analytics and Artificial Intelligence. _New Education Expo 2022._ June 3, 2022, Tokyo, Japan. https://edu-expo.org/registration/2022/index.php?hall=T&new=true
 
