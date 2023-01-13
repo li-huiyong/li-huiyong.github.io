@@ -51,9 +51,9 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 * PC Member of LAK23, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
-* Member of APSCE 2017-2022, SoLAR 2019-2023
+* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-2022, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-2023
 
-* Reviewer of Sustainability (SCI, SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
+* Reviewer of Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Sustainability (SCI, SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
