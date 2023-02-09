@@ -17,10 +17,12 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 ### <span style="color: Salmon; ">Areas of Research</span>
 * Learning Analytics
+* Educational Data Mining
 * Self-Directed Learning
 * Self-Regulated Learning
 * Learning Design
 * Technology Enhanced Language Learning
+* Human-Computer Interaction
 
 ### <span style="color: Salmon; ">Academic Education</span>
 2018.4-2021.3: Doctoral Program, [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/){:target="_blank"}, [Kyoto University](https://www.kyoto-u.ac.jp/en/){:target="_blank"}
@@ -47,7 +49,7 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 * Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
-* Co-Chair of APSCE LAEDM SIG 2022, EDE SIG1 2022, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
+* Co-Chair of APSCE LAEDM SIG 2022-2023, EDE SIG1 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
 * PC Member of LAK23, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
