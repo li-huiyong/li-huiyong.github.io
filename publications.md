@@ -24,6 +24,10 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang and Hiroaki Ogata. (2023). **Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data** _Proceedings of the CROSSMMLA at LAK 2023 workshop: Leveraging Multimodal Data for Generating Meaningful Feedback, CEUR-WS (2023),_ in press
+
+* Rwitajit Majumdar, Yuanyuan Yang, Huiyong Li, Brendan Flanagan and Hiroaki Ogata. (2023). **3 Years of GOAL project in Public School: Leveraging Learning & Smartwatch Logs for Self-directed Learning** _Companion Proceedings of the 13th International Conference on Learning Analytics and Knowledge (LAK23),_ in press
+
 * Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Explainable English Material Recommendation Using an Information Retrieval Technique for EFL Learning** _Proceedings of the 30th International Conference on Computers in Education (ICCE2022),_ pp.561-570. [PDF](https://www.researchgate.net/publication/365821565_Explainable_English_Material_Recommendation_Using_an_Information_Retrieval_Technique_for_EFL_Learning){:target="_blank"}
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2022). **Extracting Students’ Self-Regulation Strategies in an Online Extensive Reading Environment using the Experience API (xAPI)** _Proceedings of the 30th International Conference on Computers in Education (ICCE2022),_ pp.326-331. [PDF](https://www.researchgate.net/publication/365838088_Extracting_Students'_Self-Regulation_Strategies_in_an_Online_Extensive_Reading_Environment_using_the_Experience_API_xAPI){:target="_blank"}
