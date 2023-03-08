@@ -13,17 +13,17 @@ ___
 
 * Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021analysis.bib){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
 
-* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"}
+* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Journal,_ in press
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?** _Smart Learning Environments, 10, 21._ [DOI](https://doi.org/10.1186/s40561-023-00243-z){:target="_blank"} (ESCI; ISSN 2196-7091; SJR Q1)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?** _Smart Learning Environments, 10, 21._ [DOI](https://doi.org/10.1186/s40561-023-00243-z){:target="_blank"} (ESCI; ISSN 2196-7091; JCI Q1)
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2022). **Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2022.2101126){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
 
-* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"}
+* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
-* Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ [DOI](https://doi.org/10.1504/IJMLO.2022.125968) (ESCI; ISSN 1746-7268)
+* Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ [DOI](https://doi.org/10.1504/IJMLO.2022.125968) (ESCI; ISSN 1746-7268; SJR Q1)
 
 
 ### <span style="color: Salmon; ">International Conference</span>
