@@ -23,7 +23,7 @@ ___
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"}
 
-* Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ [DOI](https://doi.org/10.1504/IJMLO.2022.125968)
+* Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ [DOI](https://doi.org/10.1504/IJMLO.2022.125968) (ESCI; ISSN 1746-7268)
 
 
 ### <span style="color: Salmon; ">International Conference</span>
