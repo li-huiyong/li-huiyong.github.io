@@ -17,6 +17,8 @@ ___
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Journal,_ in press
 
+* Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education_ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; SJR Q1)
+
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?** _Smart Learning Environments, 10, 21._ [DOI](https://doi.org/10.1186/s40561-023-00243-z){:target="_blank"} (ESCI; ISSN 2196-7091; JCI Q1)
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2022). **Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2022.2101126){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
