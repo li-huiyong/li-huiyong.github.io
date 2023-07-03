@@ -15,7 +15,7 @@ ___
 
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
-* Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Journal,_ in press
+* Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ [PDF]((https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9){:target="_blank"} (ISSN 2188-8612)
 
 * Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education_ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; SJR Q1)
 
