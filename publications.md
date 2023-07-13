@@ -30,7 +30,7 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2023). **Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data.** _Proceedings of the CROSSMMLA workshop at LAK 2023: Leveraging Multimodal Data for Generating Meaningful Feedback, CEUR-WS (2023),_ in press
+* Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2023). **Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data.** _Proceedings of the 6th Workshop on Leveraging Multimodal Data for Generating Meaningful Feedback (CROSSMMLA 2023) at LAK 2023_, Vol.3439, 12-22. CEUR-WS. [PDF](https://ceur-ws.org/Vol-3439/paper2.pdf){:target="_blank"}
 
 * Rwitajit Majumdar, Yuanyuan Yang, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2023). **3 Years of GOAL project in Public School: Leveraging Learning & Smartwatch Logs for Self-directed Learning.** _Companion Proceedings of the 13th International Conference on Learning Analytics and Knowledge (LAK23),_ 5-8, 2023.03. [PDF](https://www.solaresearch.org/wp-content/uploads/2023/03/LAK23_CompanionProceedings.pdf#page=22){:target="_blank"}
 
