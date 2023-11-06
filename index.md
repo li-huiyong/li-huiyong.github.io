@@ -6,9 +6,23 @@ layout: index
 
 ___
 
+* 11/2023: Work as an Assistant Professor at [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
+
+* 4/2023: Paper on [**GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context**](http://dx.doi.org/10.1007/s40692-023-00272-0) was published in [Journal of Computers in Education](https://www.springer.com/journal/40692).
+
+* 3/2023: Paper on [**Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data**](https://ceur-ws.org/Vol-3439/paper2.pdf) was accepted to [CROSSMMLA 2023](https://easychair.org/cfp/crossmmla23) in [LAK23](https://www.solaresearch.org/events/lak/lak23/).
+
+* 3/2023: Paper on [**Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning**](https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9) was published in [JACET Journal](https://www.jacet.org/publication/jacet-journal/).
+
+* 3/2023: Paper on [**Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?**](http://dx.doi.org/10.1186/s40561-023-00243-z) was published in [Smart Learning Environments](https://slejournal.springeropen.com/).
+
+* 7/2022: Paper on [**A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement**](https://doi.org/10.1504/IJMLO.2022.125968) was published in [International Journal of Mobile Learning and Organisation](https://www.inderscienceonline.com/journal/ijmlo).
+
 * 7/2022: Paper on [**Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading**](https://doi.org/10.1080/10494820.2022.2101126) was published in [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20).
 
 * 3/2022: Paper on [**Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance**](https://doi.org/10.1145/3506860.3506889) was published in [LAK22](https://dl.acm.org/doi/proceedings/10.1145/3506860).
+
+* 7/2021: Paper on [**A framework to foster analysis skill for self-directed activities in data-rich environment**](https://doi.org/10.1186/s41039-021-00170-y) was published in [Research and Practice in Technology Enhanced Learning](https://telrp.springeropen.com/).
 
 * 6/2021: Paper on [**Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading**](https://doi.org/10.1080/10494820.2021.1937660) was published in [Interactive Learning Environments](https://www.tandfonline.com/toc/nile20/current).
 
