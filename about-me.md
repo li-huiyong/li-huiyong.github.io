@@ -10,7 +10,7 @@ ___
 </p>-->
 
 ## Dr. Huiyong Li
-Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto University
+Assistant Professor at Research Institute for Information Technology, Kyushu University
 <!--PhD student, Social Informatics - Kyoto University-->
 
 <i class="fa fa-envelope" aria-hidden="true"></i> lihuiyong123 [at] gmail.com
@@ -34,7 +34,9 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
 ### <span style="color: Salmon; ">Research Experience</span>
-2021.4-: Researcher, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
+2023.11-: Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html){:target="_blank"}, Kyushu University
+
+2021.4-2023.3: Researcher, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
 
 2020.8-2021.3: Research Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
 
@@ -51,9 +53,9 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 * Co-Chair of APSCE LAEDM SIG 2022-2023, EDE SIG1 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
-* PC Member of LAK23, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
+* PC Member of LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
-* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-2022, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-2023
+* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-2023, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-2023
 
 * Reviewer of Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Sustainability (SCI, SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
@@ -80,7 +82,7 @@ Researcher at Learning and Educational Technologies Research Unit, ACCMS, Kyoto 
 
 ### <span style="color: Salmon; ">Hobbies</span>
 * Hiking
-* Nihon Buyo
 * Cooking
 * Badminton
+* Nihon Buyo
 
