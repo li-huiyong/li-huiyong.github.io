@@ -9,12 +9,6 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021goal.bib){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 11.182)
-
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021analysis.bib){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
-
-* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
-
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ [PDF](https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9){:target="_blank"} (ISSN 2188-8612)
 
 * Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education_ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; SJR Q1)
@@ -23,10 +17,15 @@ ___
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2022). **Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2022.2101126){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
 
-* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
-
 * Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ [DOI](https://doi.org/10.1504/IJMLO.2022.125968){:target="_blank"} (ESCI; ISSN 1746-7268; SJR Q1)
 
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ [DOI](https://doi.org/10.1016/j.compedu.2021.104239){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021goal.bib){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 11.182)
+
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2021.1937660){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2021analysis.bib){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
+
+* Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ [DOI](https://doi.org/10.1186/s41039-021-00170-y){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
+
+* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 ### <span style="color: Salmon; ">International Conference</span>
 
@@ -47,6 +46,8 @@ ___
 * Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar and Hiroaki Ogata. (2022). **Leverage Technology to Support Self-direction Strategies for High School Students in Weekly English Vocabulary and Grammar Learning.** _Proceedings of the 1st APSCE International Conference on Future Language Learning (ICFULL2022),_ 30, 2022.07. [PDF](https://www.eduhk.hk/ICFULL2022/Proceedings.pdf#page=36){:target="_blank"}
 
 * Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Brendan Flanagan and Hiroaki Ogata. (2022) **GOAL System to Support In-class Reading Activity: A Study of Advanced and Standard EFL Learners.** _Proceedings of the 1st APSCE International Conference on Future Language Learning (ICFULL2022),_ 39, 2022.07. [PDF](https://www.eduhk.hk/ICFULL2022/Proceedings.pdf#page=45){:target="_blank"}
+
+* Rwitajit Majumdar, Liang Changhao, Hiroyuki Kuromiya, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2022). **Learning and Evidence Analytics Framework (LEAF): Innovating Log Data Driven Services for Teaching and Learning.** _Proceedings of the ISLS Annual Meeting 2022 (ISLS2022),_ 24-27, 2022.06. [PDF](https://www.researchgate.net/publication/375522606_Learning_and_Evidence_Analytics_Framework_LEAF_Innovating_Log_Data_Driven_Services_for_Teaching_and_Learning_Learning_and_Evidence_Analytics_Framework){:target="_blank"}
 
 * Brendan Flanagan, Rwitajit Majumdar, Huiyong Li, Atsushi Shimada, Fumiya Okubo, Hiroaki Ogata. (2022). **The 4th Workshop on Predicting Performance Based on the Analysis of Reading Behavior.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge,_ 152-155, 2022.03. [PDF](https://www.zora.uzh.ch/id/eprint/218604/1/LAK22_CompanionProceedings.pdf#page=164){:target="_blank"} http://ceur-ws.org/Vol-3120/
 
