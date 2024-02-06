@@ -11,4 +11,5 @@ ___
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [researchmap](https://researchmap.jp/lihuiyong){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
+* [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
 * [Github](https://github.com/li-huiyong){:target="_blank"}
