@@ -53,11 +53,11 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 * Co-Chair of APSCE LAEDM SIG 2022-2023, EDE SIG1 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
-* PC Member of LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
+* PC Member of GCCCE2024, LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
-* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-2023, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-2023
+* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-2023, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-2024
 
-* Reviewer of Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Sustainability (SCI, SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
+* Reviewer of Computer Assisted Language Learning (SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
