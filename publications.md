@@ -31,6 +31,12 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Understanding Learners' Cross-context Self-direction Skill Achievement Behavior.** _Companion Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 206-208, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.22951.56484){:target="_blank"}
+
+* Zixu Wang, Chia-Yu Hsu, Junya Atake, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Automated Classification of Student's Self-reflection Using BERT: Consideration and Possibilities for Self-Directed Learning Support.** _Companion Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 103-105, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.29662.45129){:target="_blank"}
+
+* Chia-Yu Hsu, Mandukhai Otgonbaatar, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Chronotypes of Learning Habits in Weekly Math Learning of Junior High School.** _Proceedings of the 31th International Conference on Computers in Education (ICCE2023),_ 566-568, 2023.12. [PDF](http://dx.doi.org/10.13140/RG.2.2.26307.00800){:target="_blank"}
+
 * Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang, Hiroaki Ogata. (2023). **Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data.** _Proceedings of the 6th Workshop on Leveraging Multimodal Data for Generating Meaningful Feedback (CROSSMMLA 2023) at LAK 2023_, Vol.3439, 12-22. CEUR-WS. [PDF](https://ceur-ws.org/Vol-3439/paper2.pdf){:target="_blank"}
 
 * Rwitajit Majumdar, Yuanyuan Yang, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2023). **3 Years of GOAL project in Public School: Leveraging Learning & Smartwatch Logs for Self-directed Learning.** _Companion Proceedings of the 13th International Conference on Learning Analytics and Knowledge (LAK23),_ 5-8, 2023.03. [PDF](https://www.solaresearch.org/wp-content/uploads/2023/03/LAK23_CompanionProceedings.pdf#page=22){:target="_blank"}
