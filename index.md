@@ -6,6 +6,8 @@ layout: index
 
 ___
 
+* 3/2024: Paper on [**GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts**](https://doi.org/10.30191/ETS.202407_27(3).RP04) was published in [Educational Technology & Society](https://www.j-ets.net/collection/forthcoming-articles/27_3).
+
 * 11/2023: Work as an Assistant Professor at [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
 
 * 4/2023: Paper on [**GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context**](http://dx.doi.org/10.1007/s40692-023-00272-0) was published in [Journal of Computers in Education](https://www.springer.com/journal/40692).
