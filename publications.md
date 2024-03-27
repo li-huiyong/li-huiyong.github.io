@@ -9,6 +9,8 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
+* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society_ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
+
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ [PDF](https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9){:target="_blank"} (ISSN 2188-8612)
 
 * Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education_ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; SJR Q1)
