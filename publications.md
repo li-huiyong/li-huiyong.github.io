@@ -9,7 +9,9 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society_ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning_ (in press) (ESCI; ISSN 1793-7078; JCI Q2)
+
+* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ [PDF](https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9){:target="_blank"} (ISSN 2188-8612)
 
@@ -30,6 +32,10 @@ ___
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 ### <span style="color: Salmon; ">International Conference</span>
+
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Evaluating Productivity of Learning Habits Using Math Learning Logs: Do K12 Learners Manage Their Time Effectively?** _Proceedings of the 19th European Conference on Technology Enhanced Learning (ECTEL2024),_ (in press)
+
+* Chengjiu Yin, Ryoya Shiroki, Lin Lin, Huiyong Li. (2024). **A teaching materials recommendation system considering individual characteristics.** _Proceedings of the 16th International Conference on Learning Technologies and Learning Environments (LTLE2024),_ (in press)
 
 * Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Understanding Learners' Cross-context Self-direction Skill Achievement Behavior.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 103-105, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.22951.56484){:target="_blank"}
 
