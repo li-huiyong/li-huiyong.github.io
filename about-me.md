@@ -62,7 +62,7 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 ### <span style="color: Salmon; ">Funding</span>
 
-* 2024.6-2025.2: PI, Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures, Education and Research Support Program on Mathematical and Data Science (Kyushu University)
+* 2024.6-2025.3: PI, Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures, Education and Research Support Program on Mathematical and Data Science (Kyushu University)
 
 * 2022.4-2025.3: Co-PI, GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem, JSPS Grant-in-Aid for Scientific Research (B), Project Number: [22H03902](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22H03902/){:target="_blank"}
 
