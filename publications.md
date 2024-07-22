@@ -9,7 +9,7 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning_ (in press) (ESCI; ISSN 1793-7078; JCI Q2)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014_ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; JCI Q2)
 
 * Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
 
@@ -32,6 +32,14 @@ ___
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ [DOI](https://doi.org/10.1186/s41039-018-0087-7){:target="_blank"} [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 ### <span style="color: Salmon; ">International Conference</span>
+
+* Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+
+* Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+
+* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Comparison of Learners’ Self-direction Behavior Across Contexts and Phases.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Evaluating Productivity of Learning Habits Using Math Learning Logs: Do K12 Learners Manage Their Time Effectively?** _Proceedings of the 19th European Conference on Technology Enhanced Learning (ECTEL2024),_ (in press)
 
