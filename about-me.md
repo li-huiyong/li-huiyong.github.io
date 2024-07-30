@@ -19,11 +19,11 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 * Learning Analytics
 * Educational Data Mining
 * Artificial Intelligence in Education
+* Human-Computer Interaction
 * Self-Directed Learning
 * Self-Regulated Learning
 * Learning Design
 * Technology Enhanced Language Learning
-* Human-Computer Interaction
 
 ### <span style="color: Salmon; ">Academic Education</span>
 2018.4-2021.3: Doctoral Program, [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/){:target="_blank"}, [Kyoto University](https://www.kyoto-u.ac.jp/en/){:target="_blank"}
@@ -35,15 +35,15 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
 ### <span style="color: Salmon; ">Research Experience</span>
-2023.11-: Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html){:target="_blank"}, Kyushu University
+2023.11-: Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html){:target="_blank"}, Kyushu University. (Research on Artificial Intelligence in Education)
 
-2021.4-2023.3: Researcher, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
+2021.4-2023.3: Researcher, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University. (Research on Artificial Intelligence for Individually Optimized Learning)
 
-2020.8-2021.3: Research Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
+2020.8-2021.3: Research Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University. (Research assistance on Educational Big Data and Learning Analytics)
 
-2018.6-2019.3: Research Assistant, [Collaborative Graduate Program in Design](http://www.design.kyoto-u.ac.jp/education/overview/){:target="_blank"}, Kyoto University
+2018.6-2019.3: Research Assistant, [Collaborative Graduate Program in Design](http://www.design.kyoto-u.ac.jp/education/overview/){:target="_blank"}, Kyoto University. (Research assistance on Analysis of Educational Big Data)
 
-2018.5-2019.3: Technical Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University
+<!--2018.5-2019.3: Technical Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University-->
 
 ### <span style="color: Salmon; ">Working Experience</span>
 2011.7-2015.3: Senior Software Engineer, [Dalian Hi-Think Computer Technology Corp.](http://www.dhc.com.cn/?_l=en){:target="_blank"}
@@ -76,7 +76,9 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 ### <span style="color: Salmon; ">Teaching and Mentoring</span>
 2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
 
-2016.10-2018.3: Teaching Assistant, Information Science, Kyushu University
+2017.10-2018.2: Teaching Assistant, Interdisciplinary Collaborative Learning of Social Issues, Kyushu University
+
+2016.10-2018.2: Teaching Assistant, Information Science, Kyushu University
 
 2016.4-2017.3: International Student Supporter, Kyushu University
 
