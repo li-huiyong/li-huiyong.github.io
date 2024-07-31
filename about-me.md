@@ -66,6 +66,8 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 * 2022.4-2025.3: Co-PI, GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem, JSPS Grant-in-Aid for Scientific Research (B), Project Number: [22H03902](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22H03902/){:target="_blank"}
 
+Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/1000060913910/){:target="_blank"}, [research-er.jp](https://research-er.jp/researchers/view/946853){:target="_blank"}
+
 ### <span style="color: Salmon; ">Awards and Honors</span>
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
 
