@@ -9,6 +9,10 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
+* Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, (in press)_
+
+* Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, (in press)_
+
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014_ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; JCI Q2)
 
 * Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
