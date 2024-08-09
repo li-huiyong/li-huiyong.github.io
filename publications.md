@@ -49,9 +49,9 @@ ___
 
 * Chengjiu Yin, Ryoya Shiroki, Lin Lin, Huiyong Li. (2024). **A teaching materials recommendation system considering individual characteristics.** _Proceedings of the 16th International Conference on Learning Technologies and Learning Environments (LTLE2024),_ (in press)
 
-* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Understanding Learners' Cross-context Self-direction Skill Achievement Behavior.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 103-105, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.22951.56484){:target="_blank"}
+* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Understanding Learners' Cross-context Self-direction Skill Achievement Behavior.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 103-105, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.29662.45129){:target="_blank"}
 
-* Zixu Wang, Chia-Yu Hsu, Junya Atake, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Automated Classification of Student's Self-reflection Using BERT: Consideration and Possibilities for Self-Directed Learning Support.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 206-208, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.29662.45129){:target="_blank"}
+* Zixu Wang, Chia-Yu Hsu, Junya Atake, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Automated Classification of Student's Self-reflection Using BERT: Consideration and Possibilities for Self-Directed Learning Support.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 206-208, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.22951.56484){:target="_blank"}
 
 * Chia-Yu Hsu, Mandukhai Otgonbaatar, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Chronotypes of Learning Habits in Weekly Math Learning of Junior High School.** _Proceedings of the 31th International Conference on Computers in Education (ICCE2023),_ 566-568, 2023.12. [PDF](http://dx.doi.org/10.13140/RG.2.2.26307.00800){:target="_blank"}
 
