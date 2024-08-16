@@ -9,19 +9,19 @@ ___
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, (in press)_
+* Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, 20, 025._ https://doi.org/10.58459/rptel.2025.20025 (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, (in press)_
+* Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, (in press)_ (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014_ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; JCI Q2)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014._ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.020)
+* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ https://doi.org/10.30191/ETS.202407_27(3).RP04 (SSCI; ISSN 1436-4522; IF: 4.6)
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ [DOI](https://doi.org/10.50943/jacetselectedpapers.9.0_15){:target="_blank"} (ISSN 2188-8612)
 
-* Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education, 11, 595–614._ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; SJR Q1)
+* Yuanyuan Yang, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context.** _Journal of Computers in Education, 11, 595–614._ [DOI](https://doi.org/10.1007/s40692-023-00272-0){:target="_blank"} (ESCI; ISSN 2197-9987; IF:4.3)
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?** _Smart Learning Environments, 10, 21._ [DOI](https://doi.org/10.1186/s40561-023-00243-z){:target="_blank"} (ESCI; ISSN 2196-7091; JCI Q1)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2023). **Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?** _Smart Learning Environments, 10, 21._ [DOI](https://doi.org/10.1186/s40561-023-00243-z){:target="_blank"} (ESCI; ISSN 2196-7091; IF: 6.7)
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Hiroaki Ogata. (2022). **Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading.** _Interactive Learning Environments_ [DOI](https://doi.org/10.1080/10494820.2022.2101126){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
 
