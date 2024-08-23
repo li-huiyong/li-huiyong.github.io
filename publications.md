@@ -27,7 +27,7 @@ ___
 
 * Mei-Rong Alice Chen, Gwo-Jen Hwang, Yi-Hsuan Lin, Victoria Abou-Khalil, Huiyong Li, Hiroaki Ogata. (2022). **A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement.** _International Journal of Mobile Learning and Organisation, 16(4), 489-506._ https://doi.org/10.1504/IJMLO.2022.125968 (ESCI; ISSN 1746-7268; SJR Q1)
 
-* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 104239._ https://doi.org/10.1016/j.compedu.2021.104239 [BibTeX](https://li-huiyong.github.io/resources/li2021goal.bib){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 11.182)
+* Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Hiroaki Ogata. (2021). **Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading.** _Computers & Education, 171, 104239._ https://doi.org/10.1016/j.compedu.2021.104239 [BibTeX](https://li-huiyong.github.io/resources/li2021goal.bib){:target="_blank"} (SCI and SSCI; ISSN 0360-1315; IF: 11.182)
 
 * Huiyong Li, Rwitajit Majumdar, Mei-Rong Alice Chen, Yuanyuan Yang, Hiroaki Ogata. (2021). **Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading.** _Interactive Learning Environments, 31(6), 3613–3632._ https://doi.org/10.1080/10494820.2021.1937660 [BibTeX](https://li-huiyong.github.io/resources/li2021analysis.bib){:target="_blank"} (SSCI; ISSN 1049-4820; IF: 4.965)
 
