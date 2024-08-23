@@ -33,7 +33,7 @@ ___
 
 * Yuanyuan Yang, Rwitajit Majumdar, Huiyong Li, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2021). **A framework to foster analysis skill for self-directed activities in data-rich environment.** _Research and Practice in Technology Enhanced Learning, 16(1), 1-17._ https://doi.org/10.1186/s41039-021-00170-y (ESCI; ISSN 1793-7078; JCI Q2)
 
-* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13(1), 19._ https://doi.org/10.1186/s41039-018-0087-7 [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
+* Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13, 19._ https://doi.org/10.1186/s41039-018-0087-7 [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 ### <span style="color: Salmon; ">International Conference</span>
 
