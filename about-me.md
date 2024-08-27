@@ -69,6 +69,9 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/1000060913910/){:target="_blank"}, [research-er.jp](https://research-er.jp/researchers/view/946853){:target="_blank"}
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
+
+2022.12: Best Reviewer Award of ICCE2022, Asia-Pacific Society for Computers in Education (APSCE)
+
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
 
 2018.6-2020.5: Chinese Government Graduate Student Overseas Study Program Scholarship
