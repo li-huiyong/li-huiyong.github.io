@@ -39,7 +39,7 @@ ___
 
 * Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (Best Technical Design Paper Award Nominee) (in press)
 
 * Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
 
