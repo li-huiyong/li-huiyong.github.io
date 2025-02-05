@@ -11,7 +11,7 @@ ___
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, 20, 025._ https://doi.org/10.58459/rptel.2025.20025 (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, (in press)_ (ESCI; ISSN 1793-7078; IF: 3.1)
+* Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, 20, 027._ https://doi.org/10.58459/rptel.2025.20027 (ESCI; ISSN 1793-7078; IF: 3.1)
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014._ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; IF: 3.1)
 
@@ -37,17 +37,17 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+* Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (Best Technical Design Paper Award Nominee) (in press)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 216-225, 2024.11. https://doi.org/10.58459/icce.2024.4843 **(Best Technical Design Paper Award Nominee)** 
 
-* Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+* Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 471-479, 2024.11. https://doi.org/10.58459/icce.2024.4883
 
-* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Comparison of Learners’ Self-direction Behavior Across Contexts and Phases.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ (in press)
+* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Comparison of Learners’ Self-direction Behavior Across Contexts and Phases.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 286-295, 2024.11. https://doi.org/10.58459/icce.2024.4852
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Evaluating Productivity of Learning Habits Using Math Learning Logs: Do K12 Learners Manage Their Time Effectively?** _Proceedings of the 19th European Conference on Technology Enhanced Learning (ECTEL2024),_ (in press)
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Evaluating Productivity of Learning Habits Using Math Learning Logs: Do K12 Learners Manage Their Time Effectively?** _Proceedings of the 19th European Conference on Technology Enhanced Learning (ECTEL2024),_ pp 168–178, 2024.09. https://doi.org/10.1007/978-3-031-72315-5_12
 
-* Chengjiu Yin, Ryoya Shiroki, Lin Lin, Huiyong Li. (2024). **A teaching materials recommendation system considering individual characteristics.** _Proceedings of the 16th International Conference on Learning Technologies and Learning Environments (LTLE2024),_ (in press)
+* Chengjiu Yin, Ryoya Shiroki, Lin Lin, Huiyong Li. (2024). **A Teaching Materials Recommendation System Considering Individual Characteristics.** _2024 16th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI),_ pp. 212-217, 2024.07. https://doi.org/10.1109/IIAI-AAI63651.2024.00049
 
 * Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Understanding Learners' Cross-context Self-direction Skill Achievement Behavior.** _Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24),_ 103-105, 2024.03. [PDF](http://dx.doi.org/10.13140/RG.2.2.29662.45129){:target="_blank"}
 
@@ -110,7 +110,11 @@ ___
 
 ### <span style="color: Salmon; ">Invited Talk</span>
 
-* LEAF System and its Demo Course. SIG1/SIG5, _EDE research seminar_, Jan 28, 2023, Kyoto, Japan. https://www.ederc.jp/events
+* Enhancing Students’ Self-Directed Learning with Learning Analytics Dashboard and AI Recommendation. _Kyushu University DDIn² International Smart Learning Environment Seminar._ Jan 27, 2025, Kyushu, Japan. https://dx.kyushu-u.ac.jp/news/seminar20250127/
+
+* Empowering K-12 Students for Sustainable Learning Through Learning and Physical Activity Data. _Educational Big Data for Sustainable Society Symposium_, Jan 11, 2025, Kyoto, Japan. https://ederc.jp/2024/11/20250111-esdsymposium/
+
+* LEAF System and its Demo Course. _SIG research seminar of Evidence-based Education Council_, Jan 28, 2023, Kyoto, Japan. https://ederc.jp/2023/09/20230128-sig1-5/
 
 * Goal-oriented Active Learning (GOAL) System to Promote Reading Engagement, Self-directed Learning Behavior, and Motivation in Extensive Reading. Top Conference Session 3-2, _FIT2022_, Sep 13, 2022, Yokohama, Japan. https://www.ipsj.or.jp/event/fit/fit2022/FIT2022_program/data/html/event/event_TCS3-2.html
 
