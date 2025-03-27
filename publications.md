@@ -15,7 +15,7 @@ ___
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014._ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ https://doi.org/10.30191/ETS.202407_27(3).RP04 (SSCI; ISSN 1436-4522; IF: 4.6)
+* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ https://www.jstor.org/stable/48787017 (SSCI; ISSN 1436-4522; IF: 4.6)
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ https://doi.org/10.50943/jacetselectedpapers.9.0_15 (ISSN 2188-8612)
 
