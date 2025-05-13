@@ -37,6 +37,8 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Huiyong Li, Boxuan Ma Li. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
+
 * Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 216-225, 2024.11. https://doi.org/10.58459/icce.2024.4843 **(Best Technical Design Paper Award Nominee)** 
