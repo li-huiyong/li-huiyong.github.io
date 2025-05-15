@@ -37,15 +37,15 @@ ___
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Huiyong Li, Boxuan Ma Li. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
+* Huiyong Li, Boxuan Ma. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
 
-* Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024) **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
+* Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024). **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
 
-* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 216-225, 2024.11. https://doi.org/10.58459/icce.2024.4843 **(Best Technical Design Paper Award Nominee)** 
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Designing Recommendations for Productive Learning Habit-building from Learning Logs.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 216-225, 2024.11. https://doi.org/10.58459/icce.2024.4843 **(Best Technical Design Paper Award Nominee)** 
 
-* Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 471-479, 2024.11. https://doi.org/10.58459/icce.2024.4883
+* Zixu Wang, Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Classifying Self-Reflection Notes: Automation Approaches for GOAL system.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 471-479, 2024.11. https://doi.org/10.58459/icce.2024.4883
 
-* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024) **Comparison of Learners’ Self-direction Behavior Across Contexts and Phases.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 286-295, 2024.11. https://doi.org/10.58459/icce.2024.4852
+* Junya Atake, Chia-Yu Hsu, Huiyong Li, Izumi Horikoshi, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Comparison of Learners’ Self-direction Behavior Across Contexts and Phases.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 286-295, 2024.11. https://doi.org/10.58459/icce.2024.4852
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2024). **Evaluating Productivity of Learning Habits Using Math Learning Logs: Do K12 Learners Manage Their Time Effectively?** _Proceedings of the 19th European Conference on Technology Enhanced Learning (ECTEL2024),_ pp 168–178, 2024.09. https://doi.org/10.1007/978-3-031-72315-5_12
 
@@ -85,7 +85,7 @@ ___
 
 * Rwitajit Majumdar, Aditi Kothiyal, Shitanshu Mishra, Prajakt Pande, Huiyong Li, Yuanyuan Yang, Jayakrishnan Madathil Warriem. (2021). **Design of a Critical Thinking Task Environment based on ENaCT framework.** _In 2021 International Conference on Advanced Learning Technologies (ICALT),_ 294-296, 2021.07. https://10.1109/ICALT52272.2021.00095
 
-* Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021) **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ 79-81, 2021.04. [PDF](https://www.researchgate.net/publication/357648683_Enabling_Multimodal_Reading_Analytics_through_GOAL_Platform)
+* Rwitajit Majumdar, Duygu Şahin, Taisho Kondo, Huiyong Li, Yuanyuan Yang, Brendan Flanagan, Hiroaki Ogata. (2021). **Enabling Multimodal Reading Analytics through GOAL Platform.** _Companion Proceedings of the 11th International Conference on Learning Analytics and Knowledge (LAK21),_ 79-81, 2021.04. [PDF](https://www.researchgate.net/publication/357648683_Enabling_Multimodal_Reading_Analytics_through_GOAL_Platform)
 
 * Huiyong Li, Rwitajit Majumdar, Yuan Yuan Yang, Hiroaki Ogata. (2020). **Design of a Self-Reflection Model in GOAL to Support Students' Reflection.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ 330-335, 2020.11. [PDF](https://www.researchgate.net/publication/347114782_Design_of_a_Self-Reflection_Model_in_GOAL_to_Support_Students'_Reflection){:target="_blank"}
 
