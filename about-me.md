@@ -50,17 +50,19 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 ### <span style="color: Salmon; ">Academic Society</span>
 
-* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-
+* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-, [ACM](https://www.acm.org/){:target="_blank"} 2025-
 
 * Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
 * Co-Chair of EDE SIG1 2022-, APSCE LAEDM SIG 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
-* PC Member of ABC2025, GCCCE2025, LAK25, ICCE2024, GCCCE2024, LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
+* PC Member of ICLEA2025, ICALT2025, AIED2025, ABC2025, GCCCE2025, LAK25, ICCE2024, GCCCE2024, LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
-* Reviewer of Computer Assisted Language Learning (SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
+* Reviewer of British Journal of Educational Technology (SSCI), Computer Assisted Language Learning (SSCI), Journal of Computer Assisted Learning (SSCI), Educational Technology & Society (SSCI), Humanities & Social Sciences Communications (SSCI), Research and Practice in Technology Enhanced Learning (ESCI)
 
 ### <span style="color: Salmon; ">Funding</span>
+
+* 2024.6-2025.3: PI, MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education, JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}
 
 * 2024.6-2025.3: PI, Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures, Education and Research Support Program on Mathematical and Data Science (Kyushu University)
 
@@ -68,7 +70,7 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 * 2022.4-2025.3: Co-PI, GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem, JSPS Grant-in-Aid for Scientific Research (B), Project Number: [22H03902](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22H03902/){:target="_blank"}
 
-Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/1000060913910/){:target="_blank"}, [research-er.jp](https://research-er.jp/researchers/view/946853){:target="_blank"}
+Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/1000060913910/){:target="_blank"}, [research-er.jp](https://research-er.jp/researchers/view/992994){:target="_blank"}
 
 ### <span style="color: Salmon; ">Awards and Honors</span>
 
