@@ -54,7 +54,7 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 * Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
-* Co-Chair of EDE SIG1 2022-, APSCE LAEDM SIG 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
+* Co-Chair of EDE SIG1 2022-, LEET2025, LEET2024, APSCE LAEDM SIG 2022-2023, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019, APSCE Student Wing 2018
 
 * PC Member of ICLEA2025, ICALT2025, AIED2025, ABC2025, GCCCE2025, LAK25, ICCE2024, GCCCE2024, LAK24, LAK23, ICCE2023, GCCCE2023, ICAIE2023, ICCE2022, GCCCE2022
 
