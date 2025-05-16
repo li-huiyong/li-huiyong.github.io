@@ -50,7 +50,7 @@ Assistant Professor at Research Institute for Information Technology, Kyushu Uni
 
 ### <span style="color: Salmon; ">Academic Society</span>
 
-* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-, [ACM](https://www.acm.org/){:target="_blank"} 2025-
+* Member of [APSCE](https://new.apsce.net/){:target="_blank"} 2017-, [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-, [ACM](https://www.acm.org/){:target="_blank"} 2025-, [International AIED Society](https://iaied.org/){:target="_blank"} 2025-
 
 * Chair of LA@ICCE2022 workshop, LA@ICCE2021 workshop
 
