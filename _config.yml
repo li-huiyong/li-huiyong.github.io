@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "avatar2019.png"
   name             : "Huiyong Li"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Assistant Professor at Kyushu University"
   location         : "Fukuoka, Japan"
   employer         : "Kyushu University"
-  uri              : "https://hyoka.ofc.kyushu-u.ac.jp/html/100024367_en.html"
+  uri              : "https://li-huiyong.github.io/"
   email            : "lihuiyong123@gmail.com" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/li-huiyong"
+  github           : "li-huiyong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
