@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-News
-======
 * 8/2024: Paper on [**Self-directed extensive reading with social support: effect on reading and learning performance of high and low English proficiency students**](https://doi.org/10.58459/rptel.2025.20025) was published in [Research and Practice in Technology Enhanced Learning](https://rptel.apsce.net/index.php/RPTEL/article/view/2025-20025).
 
 * 6/2024: Project proposal on **Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures** was accepted by Kyushu University.
