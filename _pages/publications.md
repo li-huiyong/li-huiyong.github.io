@@ -9,6 +9,14 @@ author_profile: true
 
 [My papers@Google Scholar](https://scholar.google.com/citations?user=TlruLP0AAAAJ&hl=en){:target="_blank"}
 
+[My papers@researchmap](https://researchmap.jp/lihuiyong){:target="_blank"}
+
+[My papers@DBLP](https://dblp.org/pid/48/8327-2.html){:target="_blank"}
+
+<!--- Representative Publications  -->
+<!--- ### <span style="color: Salmon; ">Representative Publications</span> -->
+
+
 ### <span style="color: Salmon; ">Journal</span>
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, 20, 025._ https://doi.org/10.58459/rptel.2025.20025 (ESCI; ISSN 1793-7078; IF: 3.1)
@@ -17,7 +25,7 @@ author_profile: true
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Designing Data-informed Support for Building Learning Habits in the Japanese K12 Context.** _Research and Practice in Technology Enhanced Learning, 20, 014._ https://doi.org/10.58459/rptel.2025.20014 (ESCI; ISSN 1793-7078; IF: 3.1)
 
-* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ https://www.jstor.org/stable/48787017 (SSCI; ISSN 1436-4522; IF: 4.6)
+* Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang, Hiroaki Ogata. (2024). **GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts.** _Educational Technology & Society, 27(3), 61-82._ https://www.jstor.org/stable/48787017 [DOI](https://doi.org/10.30191/ETS.202407_27(3).RP04){:target="_blank"} (SSCI; ISSN 1436-4522; IF: 4.6)
 
 * Hiroaki Ogata, Huiyong Li, Rwitajit Majumdar, Yuko Toyokawa, Kensuke Takii, Changhao Liang. (2023). **Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning.** _JACET Selected Papers Vol.9 (2023) 15-46._ https://doi.org/10.50943/jacetselectedpapers.9.0_15 (ISSN 2188-8612)
 
