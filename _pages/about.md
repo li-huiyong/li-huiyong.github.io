@@ -7,74 +7,95 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Research Institute for Information Technology, Kyushu University. Received Ph.D. in Informatics in Prof. Hiroaki Ogata's Lab at Kyoto University in 2021. Research on Learning Analytics, Educational Data Mining, Self-Directed Learning, Artificial Intelligence in Education and Human-Computer Interaction.
+🦁Biography
+======
+**Huiyong Li** (Ph.D. in Informatics)
+* Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
+* Research on LA (Learning Anal), EDM (Educational Data Mining), AIED (Artificial Intelligence in Education), SDL (Self-Directed Learning), and HCI (Human-Computer Interaction).
+<!---  Award, Service  -->
+* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN
+* Email: lihuiyong123 [at] gmail.com
+* Web: https://li-huiyong.github.io/
+* Laboratory: https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html
 
 🎯🤖Research
 ======
-(1) Learning Analytics (LA) 
+(1) **Learning Analytics (LA)**
 
 Building a smart learning environment named GOAL system that can promote students' self-directed learning using Learning Analytics. The system automatically collects students' learning log data from e-book materials and physical activity data such as sleep and steps taken from wearable devices, visualizes students' activity status, supports personal planning, and provides reflection feedback through AI and dashboards. 
 
-(2) Educational Data Mining (EDM) 
+(2) **Educational Data Mining (EDM)**
 
 Measuring and improving self-regulated learning skills from learning behavior data using Educational Data Mining. Developing an effective AI feedback system by identifying self-regulated learning strategies from multimodal data including learning record (log data), eye tracking, electrodermal activity (EDA), and electroencephalogram (EEG). 
 
-(3) Artificial Intelligence in Education (AIED) 
+(3) **Artificial Intelligence in Education (AIED)** 
 
 Research on education-specific LLM agents. Developing a multi-AI agent system called MetaStep to enhance students' metacognitive skills in programming education, aiming to achieve personalized learning support.
 
-📮News
+👨‍🎓Education
 ======
+2018.4-2021.3: Doctoral Program, [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/){:target="_blank"}, [Kyoto University](https://www.kyoto-u.ac.jp/en/){:target="_blank"}
 
-* 8/2024: Paper on [**Self-directed extensive reading with social support: effect on reading and learning performance of high and low English proficiency students**](https://doi.org/10.58459/rptel.2025.20025) was published in [Research and Practice in Technology Enhanced Learning](https://rptel.apsce.net/index.php/RPTEL/article/view/2025-20025).
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home); Advisor: [Prof. Takashi Kusumi](https://cpe.sakura.ne.jp/Kusumi/kusumi.html) and [Prof. Kazuya Okamoto](https://researchmap.jp/okamotokazuya?lang=en))
 
-* 6/2024: Project proposal on **Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures** was accepted by Kyushu University.
+2016.4-2018.3: Master's Program, [Graduate School of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
 
-* 3/2024: Paper on [**GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts**](https://doi.org/10.30191/ETS.202407_27(3).RP04) was published in [Educational Technology & Society](https://www.j-ets.net/collection/forthcoming-articles/27_3).
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home); Secondary Supervisor: [Prof. Shin'ichi Konomi](https://researchmap.jp/skonomi?lang=en))
 
-* 11/2023: Work as an Assistant Professor at [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
+2015.4-2016.3: Research Student, [Graduate School of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
 
-* 4/2023: Paper on [**GOAL system for online self‑direction practice: exploring students’ behavioral patterns and the impact on academic achievement in the high school EFL context**](http://dx.doi.org/10.1007/s40692-023-00272-0) was published in [Journal of Computers in Education](https://www.springer.com/journal/40692).
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home))
 
-* 3/2023: Paper on [**Modeling Feedback for Self-Direction Skills in K-12 Educational Settings with Learning and Physical Activity Data**](https://ceur-ws.org/Vol-3439/paper2.pdf) was accepted to [CROSSMMLA 2023](https://easychair.org/cfp/crossmmla23) in [LAK23](https://www.solaresearch.org/events/lak/lak23/).
+2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
-* 3/2023: Paper on [**Towards Data and Evidence-driven Education in the Context of Language Teaching and Learning**](https://www.jacet.org/SelectedPapers/JACET61_2022_SP_9) was published in [JACET Journal](https://www.jacet.org/publication/jacet-journal/).
+💻Employment
+======
+2023.11-: Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html){:target="_blank"}, Kyushu University. (Research on Artificial Intelligence in Education)
 
-* 3/2023: Paper on [**Supporting “time awareness” in self-regulated learning: How do students allocate time during exam preparation?**](http://dx.doi.org/10.1186/s40561-023-00243-z) was published in [Smart Learning Environments](https://slejournal.springeropen.com/).
+2021.4-2023.3: Researcher, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University. (Research on Artificial Intelligence for Individually Optimized Learning)
 
-* 7/2022: Paper on [**A reading engagement-promoting strategy to facilitate EFL students' mobile learning achievement, behaviour and engagement**](https://doi.org/10.1504/IJMLO.2022.125968) was published in [International Journal of Mobile Learning and Organisation](https://www.inderscienceonline.com/journal/ijmlo).
+2020.8-2021.3: Research Assistant, [Academic Center for Computing and Media Studies](http://www.media.kyoto-u.ac.jp/accms_web/en/){:target="_blank"}, Kyoto University. (Research assistance on Educational Big Data and Learning Analytics)
 
-* 7/2022: Paper on [**Design of a learning dashboard to enhance reading outcomes and self-directed learning behaviors in out-of-class extensive reading**](https://doi.org/10.1080/10494820.2022.2101126) was published in [Interactive Learning Environments](https://www.tandfonline.com/journals/nile20).
+2018.6-2019.3: Research Assistant, [Collaborative Graduate Program in Design](http://www.design.kyoto-u.ac.jp/education/overview/){:target="_blank"}, Kyoto University. (Research assistance on Analysis of Educational Big Data)
 
-* 3/2022: Paper on [**Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance**](https://doi.org/10.1145/3506860.3506889) was published in [LAK22](https://dl.acm.org/doi/proceedings/10.1145/3506860).
+2011.7-2015.3: Senior Software Engineer, [Dalian Hi-Think Computer Technology Corp.](http://www.dhc.com.cn/?_l=en){:target="_blank"}
 
-* 7/2021: Paper on [**A framework to foster analysis skill for self-directed activities in data-rich environment**](https://doi.org/10.1186/s41039-021-00170-y) was published in [Research and Practice in Technology Enhanced Learning](https://telrp.springeropen.com/).
+🏆Awards and Honors
+======
+2022.12: Best Reviewer Award of ICCE2022, Asia-Pacific Society for Computers in Education (APSCE)
 
-* 6/2021: Paper on [**Analysis of self-directed learning ability, reading outcomes, and personalized planning behavior for self-directed extensive reading**](https://doi.org/10.1080/10494820.2021.1937660) was published in [Interactive Learning Environments](https://www.tandfonline.com/toc/nile20/current).
+2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
 
-* 5/2021: Paper on [**Goal-oriented active learning (GOAL) system to promote reading engagement, self-directed learning behavior, and motivation in extensive reading**](https://doi.org/10.1016/j.compedu.2021.104239) was published in [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education).
+2018.6-2020.5: Chinese Government Graduate Student Overseas Study Program Scholarship
 
-* 4/2021: Work as a program-specific researcher at [Learning and Educational Technologies Research Unit](https://www.let.media.kyoto-u.ac.jp/en/), [Academic Center for Computing and Media Studies (ACCMS)](https://www.media.kyoto-u.ac.jp/accms_web/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en).
+2017.4-2018.3: Fukuoka City Rainbow Scholarship
 
-* 3/2021: Received my **Ph.D. in Informatics** from Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
-* 7/2020: Paper on [**Design of a Self-Reflection Model in GOAL to Support Students' Reflection**](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259785) was accepted to [ICCE2020](https://apsce.net/icce/icce2020/index.html).
+👨‍🏫Teaching and Mentoring
+======
+2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
 
-* 2/2020: Poster on **LET's GOAL: Toward to Goal Oriented Active Learner** was awarded Outstanding Research Award of [Kyoto University ICT Innovation Symposium](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/14th/).
+2017.10-2018.2: Teaching Assistant, Interdisciplinary Collaborative Learning of Social Issues, Kyushu University
 
-* 10/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for university and school students. Get the LET's GOAL app from [here](https://sites.google.com/view/letsgoal).
+2016.10-2018.2: Teaching Assistant, Information Science, Kyushu University
 
-* 9/2019: Paper on **Promoting Students’ Self Direction Skills through Scaffolding with Learning and Physical Activity Data** was accepted to Doctoral Student Consortium of [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
+2016.4-2017.3: International Student Supporter, Kyushu University
 
-* 7/2019: Paper on [**Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context**](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context) was accepted to [ICCE2019](http://ilt.nutn.edu.tw/icce2019/).
+🏃‍♂️Volunteering
+======
+2019: Kyoto Marathon 2019 volunteer
 
-* 4/2019: Our [GOAL project](https://sites.google.com/view/letsgoal) was released for international users.
+2017: Fukuoka Marathon 2017 volunteer
 
-* 1/2019: Paper on [**Extracting Self-Direction Strategies and Representing Practices in GOAL System**](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System) was accepted to [TEEL-LAK19](https://sites.google.com/view/teel-workshop/lak19).
+2017: Fukuoka Shika Island volunteer
 
-* 12/2018: Paper on [**Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses**](https://rdcu.be/bcFJv) was published in [Research and Practice in Technology Enhanced Learning](https://telrp.springeropen.com/).
+🗻Hobbies
+======
+* Hiking
+* Cooking
+* Badminton
+* Nihon Buyo
 
-* 12/2018: Welcome to my new home!
 
 
 <!--- Achievements, services, projects, awards -->
