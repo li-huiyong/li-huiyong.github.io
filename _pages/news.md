@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* 6/2025: The website is renew.
+* 6/2025: The website has been renewed.
 
 * 4/2025: Project proposal on **MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education** was accepted as JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}.
 
