@@ -9,42 +9,43 @@ redirect_from:
 
 
 **Dr. Huiyong Li** 
-* Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
-* Received Ph.D. in Informatics in [Prof. Hiroaki Ogata's LET Lab](https://www.let.media.kyoto-u.ac.jp/en/) at Kyoto University in 2021.
+* Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html){:target="_blank"}, [Kyushu University](https://www.kyushu-u.ac.jp/en/){:target="_blank"}.
+* Received Ph.D. in Informatics in [Prof. Hiroaki Ogata's LET Lab](https://www.let.media.kyoto-u.ac.jp/en/){:target="_blank"} at Kyoto University in 2021.
 * Research on LA (Learning Analytics), EDM (Educational Data Mining), AIED (Artificial Intelligence in Education), SDL (Self-Directed Learning), and HCI (Human-Computer Interaction).
-<!---  Award, Service  -->
+<!---  projects, achievements and awards, services  -->
 * Email: lihuiyong123 [at] gmail.com
-* Web: https://li-huiyong.github.io/
-* Laboratory: [Prof. Chengjiu Yin's AIE Lab](https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html)
-* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN. Access at [41st bldg of Campus Map](https://www.kyushu-u.ac.jp/f/32764/2018ito-en.pdf)
+* Laboratory: [Prof. Chengjiu Yin's AIE Lab](https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html){:target="_blank"}
+* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN. Access at [41st bldg of Campus Map](https://www.kyushu-u.ac.jp/f/32764/2018ito-en.pdf){:target="_blank"}
 
 🤖Research
 ======
-(1) **Learning Analytics (LA)**
+**Learning Analytics (LA)**
 
 Building a smart learning environment named GOAL system that can promote students' self-directed learning using Learning Analytics. The system automatically collects students' learning log data from e-book materials and physical activity data such as sleep and steps taken from wearable devices, visualizes students' activity status, supports personal planning, and provides reflection feedback through AI and dashboards. 
 
-(2) **Educational Data Mining (EDM)**
+**Educational Data Mining (EDM)**
 
 Measuring and improving self-regulated learning skills from learning behavior data using Educational Data Mining. Developing an effective AI feedback system by identifying self-regulated learning strategies from multimodal data including learning record (log data), eye tracking, electrodermal activity (EDA), and electroencephalogram (EEG). 
 
-(3) **Artificial Intelligence in Education (AIED)** 
+**Artificial Intelligence in Education (AIED)** 
 
 Research on education-specific LLM agents. Developing a multi-AI agent system called MetaStep to enhance students' metacognitive skills in programming education, aiming to achieve personalized learning support.
+
+<!--- Overview of My research  -->
 
 👨‍🎓Education
 ======
 2018.4-2021.3: Doctoral Program, [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/){:target="_blank"}, [Kyoto University](https://www.kyoto-u.ac.jp/en/){:target="_blank"}
 
-(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home); Advisor: [Prof. Takashi Kusumi](https://cpe.sakura.ne.jp/Kusumi/kusumi.html) and [Prof. Kazuya Okamoto](https://researchmap.jp/okamotokazuya?lang=en))
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home){:target="_blank"}; Advisor: [Prof. Takashi Kusumi](https://cpe.sakura.ne.jp/Kusumi/kusumi.html){:target="_blank"} and [Prof. Kazuya Okamoto](https://researchmap.jp/okamotokazuya?lang=en){:target="_blank"})
 
 2016.4-2018.3: Master's Program, [Graduate School of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
 
-(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home); Secondary Supervisor: [Prof. Shin'ichi Konomi](https://researchmap.jp/skonomi?lang=en))
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home){:target="_blank"}; Secondary Supervisor: [Prof. Shin'ichi Konomi](https://researchmap.jp/skonomi?lang=en){:target="_blank"})
 
 2015.4-2016.3: Research Student, [Graduate School of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/){:target="_blank"}, [Kyushu University](http://www.kyushu-u.ac.jp/en/){:target="_blank"}
 
-(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home))
+(Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home){:target="_blank"})
 
 2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
@@ -95,14 +96,3 @@ Research on education-specific LLM agents. Developing a multi-AI agent system ca
 * Cooking
 * Badminton
 * Nihon Buyo
-
-
-
-<!--- Achievements, services, projects, awards -->
-
-<!--- Overview of My research  -->
-
-<!--- Projects  -->
-
-<!--- Representative Publications  -->
-
