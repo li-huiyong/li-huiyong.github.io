@@ -29,7 +29,7 @@ author:
   location         : "Fukuoka, Japan"
   employer         : "Kyushu University"
   uri              : "https://li-huiyong.github.io/"
-  email            : "lihuiyong123@gmail.com" 
+  email            : # Email
 
   # Academic websites
   academia         : # URL
