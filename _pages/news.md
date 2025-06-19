@@ -7,11 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+* 6/2025: The website is renew.
+
+* 4/2025: Project proposal on **MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education** was accepted as JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}.
+
 * 8/2024: Paper on [**Self-directed extensive reading with social support: effect on reading and learning performance of high and low English proficiency students**](https://doi.org/10.58459/rptel.2025.20025) was published in [Research and Practice in Technology Enhanced Learning](https://rptel.apsce.net/index.php/RPTEL/article/view/2025-20025).
 
 * 6/2024: Project proposal on **Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures** was accepted by Kyushu University.
 
-* 3/2024: Paper on [**GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts**](https://doi.org/10.30191/ETS.202407_27(3).RP04) was published in [Educational Technology & Society](https://www.j-ets.net/collection/forthcoming-articles/27_3).
+* 3/2024: Paper on [**GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts**](https://www.jstor.org/stable/48787017) was published in [Educational Technology & Society](https://www.j-ets.net/collection/published-issues/27_3).
 
 * 11/2023: Work as an Assistant Professor at [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
 
@@ -54,4 +58,6 @@ author_profile: true
 * 1/2019: Paper on [**Extracting Self-Direction Strategies and Representing Practices in GOAL System**](https://www.researchgate.net/publication/331398537_Extracting_Self-Direction_Strategies_and_Representing_Practices_in_GOAL_System) was accepted to [TEEL-LAK19](https://sites.google.com/view/teel-workshop/lak19).
 
 * 12/2018: Paper on [**Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses**](https://rdcu.be/bcFJv) was published in [Research and Practice in Technology Enhanced Learning](https://telrp.springeropen.com/).
+
+* 12/2018: Welcome to my website!
 
