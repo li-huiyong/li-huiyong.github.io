@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-🦁Biography
-======
-**Huiyong Li** (Ph.D. in Informatics)
+
+**Dr. Huiyong Li** 
 * Assistant Professor, [Research Institute for Information Technology](https://ri2t.kyushu-u.ac.jp/en/index-e.html), [Kyushu University](https://www.kyushu-u.ac.jp/en/).
-* Research on LA (Learning Anal), EDM (Educational Data Mining), AIED (Artificial Intelligence in Education), SDL (Self-Directed Learning), and HCI (Human-Computer Interaction).
+* Received Ph.D. in Informatics in [Prof. Hiroaki Ogata's LET Lab](https://www.let.media.kyoto-u.ac.jp/en/) at Kyoto University in 2021.
+* Research on LA (Learning Analytics), EDM (Educational Data Mining), AIED (Artificial Intelligence in Education), SDL (Self-Directed Learning), and HCI (Human-Computer Interaction).
 <!---  Award, Service  -->
-* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN
 * Email: lihuiyong123 [at] gmail.com
 * Web: https://li-huiyong.github.io/
-* Laboratory: https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html
+* Laboratory: [Prof. Chengjiu Yin's AIE Lab](https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html)
+* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN. Access at [41st bldg of Campus Map](https://www.kyushu-u.ac.jp/f/32764/2018ito-en.pdf)
 
-🎯🤖Research
+🤖Research
 ======
 (1) **Learning Analytics (LA)**
 
