@@ -26,7 +26,7 @@ author_profile: true
 
 ### <span style="color: #0f1423; ">Reviewing Works</span>
 
-<h3>Journal reviewing</h3>
+<h3 style="color: #0f1423">Journal reviewing</h3>
 * British Journal of Educational Technology (SSCI)
 * Interactive Learning Environments (SSCI)
 * Computer Assisted Language Learning (SSCI)
@@ -35,7 +35,7 @@ author_profile: true
 * Humanities & Social Sciences Communications (SSCI)
 * Research and Practice in Technology Enhanced Learning (ESCI)
 
-<h3>Conference reviewing</h3>
+<h3 style="color: #0f1423">Conference reviewing</h3>
 * International Conference on Artificial Intelligence in Education (AIED)
 * International Conference on Learning Analytics & Knowledge (LAK)
 * International Conference on Computers in Education (ICCE)
