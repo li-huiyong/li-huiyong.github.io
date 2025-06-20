@@ -15,9 +15,9 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 
 2024.6-2025.3: PI, JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}. [Project Page](https://li-huiyong.github.io/MetaStep/){:target="_blank"} \| [CodeRunner Agent Code](https://github.com/open-aied/coderunner-agent){:target="_blank"}
 
-### <span style="color: 0f1423">Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures</span>
+### <span style="color: 0f1423">MMLAIR: Multimodal Learning Analytics in Reading</span>
 
-2024.6-2025.3: PI, Education and Research Support Program on Mathematical and Data Science (Kyushu University). [Project Page](https://li-huiyong.github.io/MMLAP/){:target="_blank"}
+2024.6-2025.3: PI, Education and Research Support Program on Mathematical and Data Science (Kyushu University). [Project Page](https://li-huiyong.github.io/MMLAIR/){:target="_blank"}
 
 ### <span style="color: 0f1423">miXai^learn: Multimodal Interactions, and Explainable AI for Embodied learning</span>
 
@@ -38,7 +38,7 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 <tr bgcolor="#ffffd0">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <a href="https://li-huiyong.github.io/MetaStep">
-          <img src="images/coderunner-agent.png" width="160">
+          <img src="/images/coderunner-agent.png" width="160">
         </a>
       </td>
       <td style="padding:8px;width:80%;vertical-align:middle">
