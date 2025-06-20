@@ -18,27 +18,27 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h2>
+        <h1>
 	  <a href="https://li-huiyong.github.io/MetaStep">
             <span style="font-weight: bold;">
 	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
 	    </span>
 	  </a>
-        </h2>
-        <p>
+        </h1>
+        <h2>
 	  JSPS Grant-in-Aid for Early-Career Scientists <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/">(25K17078)</a>
-	</p>
-        <p>
+	  <br>
 	  2025-04-01 – 2028-03-31
-	</p>
-        <a href="https://li-huiyong.github.io/MetaStep">Project Page</a>
-	|
-        <a href="https://doi.org/10.48550/arXiv.2504.03068">arxiv</a>
-        | Code
+	  <br>
+	  <a href="https://li-huiyong.github.io/MetaStep">Project Page</a>
+	  |
+          <a href="https://doi.org/10.48550/arXiv.2504.03068">arxiv</a>
+          | Code
+	</h2>
         <p></p>
-        <p>
+        <h2>
 This project aims to develop MetaStep, an LLM-based support system designed to promote self-regulated learning in introductory programming education. By seamlessly integrating students’ cognitive and metacognitive models into LLM-based scaffolding, MetaStep enables a gradual transfer of regulatory control from AI to students, supporting their development into self-directed learners.
-        </p>
+        </h2>
       </td>
 </tr>
 
