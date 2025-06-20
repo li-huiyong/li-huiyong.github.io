@@ -18,11 +18,9 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1>
+        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	  <a href="https://li-huiyong.github.io/MetaStep" target="_blank">
-            <span style="font-weight: bold; text-decoration: none; color: blue;">
 	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
-	    </span>
 	  </a>
         </h1>
         <h2 tyle="color: gray">
@@ -32,7 +30,7 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 	  <br>
 	  <a href="https://li-huiyong.github.io/MetaStep" style="text-decoration: none; color: blue;">Project Page</a>
 	  |
-          <a href="https://doi.org/10.48550/arXiv.2504.03068"style="text-decoration: none; color: blue;">arxiv</a>
+          <a href="https://doi.org/10.48550/arXiv.2504.03068" style="text-decoration: none; color: blue;">arxiv</a>
           | Code
 	</h2>
         <p></p>
@@ -47,11 +45,9 @@ This project aims to develop MetaStep, an LLM-based support system designed to p
           <img src="/images/mixai-learn.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1>
-	  <a href="https://sites.google.com/view/mixailearn/home">
-            <span style="font-weight: bold; text-decoration: none; color: blue;">
+        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://sites.google.com/view/mixailearn/home" target="_blank">
 	      miXai^learn: Multimodal Interactions, and Explainable AI for Embodied learning
-	    </span>
 	  </a>
         </h1>
         <h2 tyle="color: gray">
@@ -59,7 +55,7 @@ This project aims to develop MetaStep, an LLM-based support system designed to p
 	<br>
 	  2024-09-09 – 2027-03-31
 	<br>
-        <a href="https://sites.google.com/view/mixailearn/home" style="text-decoration: none; color: blue;">Project Page</a>
+        <a href="https://sites.google.com/view/mixailearn/home" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	</h2>
         <p></p>
         <h2>
@@ -73,11 +69,9 @@ This joint research takes the standpoint that learning has embodied experiences 
           <img src="/images/mmlair.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1>
-	  <a href="https://li-huiyong.github.io/MMLAIR">
-            <span style="font-weight: bold; text-decoration: none; color: blue;">
+        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://li-huiyong.github.io/MMLAIR" target="_blank">
 		MMLAIR: Multimodal Learning Analytics in Reading
-	    </span>
 	  </a>
         </h1>
         <h2 tyle="color: gray">
@@ -85,7 +79,7 @@ This joint research takes the standpoint that learning has embodied experiences 
 	<br>
 	  2024-06-18 – 2025-03-31
 	<br>
-        <a href="https://li-huiyong.github.io/MMLAIR" style="text-decoration: none; color: blue;">Project Page</a>
+        <a href="https://li-huiyong.github.io/MMLAIR" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	</h2>
         <p></p>
         <h2>
@@ -99,11 +93,9 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
           <img src="/images/goal-system.png" style="max-width: 100%; max-height: 100%;">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1>
-	  <a href="https://sites.google.com/view/letsgoal">
-            <span style="font-weight: bold; text-decoration: none; color: blue;">
+        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://sites.google.com/view/letsgoal" target="_blank">
 	      GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem
-	    </span>
 	  </a>
         </h1>
         <h2 tyle="color: gray">
@@ -111,9 +103,9 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
 	<br>
 	  2022-04-01 – 2025-03-31
 	<br>
-        <a href="https://sites.google.com/view/letsgoal" style="text-decoration: none; color: blue;">Project Page</a>
+        <a href="https://sites.google.com/view/letsgoal" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	|
-        <a href="https://sites.google.com/view/letsgoal/publication" style="text-decoration: none; color: blue;">Publications</a>
+        <a href="https://sites.google.com/view/letsgoal/publication" style="text-decoration: none; color: #2486b9;">Publications</a>
 	</h2>
         <p></p>
         <h2>
@@ -127,11 +119,9 @@ Learners need to be trained to be self-directed in their learning and daily acti
           <img src="/images/sip2-leaf.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1>
-	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/">
-            <span style="font-weight: bold; text-decoration: none; color: blue;">
+        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" target="_blank">
 	      Cyberspace Infrastructure Technology Using Big Data and AI: Research on Evidence-Based Tailor-Made Education
-	    </span>
 	  </a>
         </h1>
         <h2 tyle="color: gray">
@@ -139,9 +129,9 @@ Learners need to be trained to be self-directed in their learning and daily acti
 	<br>
 	  2018-11-15 - 2023-03-31
 	<br>
-        <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" style="text-decoration: none; color: blue;">Project Page</a>
+        <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	|
-        <a href="https://www8.cao.go.jp/cstp/gaiyo/sip/sip2_seika/big3.pdf" style="text-decoration: none; color: blue;">Final Report in JP (p.31-36)</a>
+        <a href="https://www8.cao.go.jp/cstp/gaiyo/sip/sip2_seika/big3.pdf" style="text-decoration: none; color: #2486b9;">Final Report in JP (p.31-36)</a>
 	</h2>
         <p></p>
         <h2>
