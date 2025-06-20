@@ -37,9 +37,9 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr bgcolor="#ffffd0">
       <td style="padding:16px;width:20%;vertical-align:middle">
-        <div class="one">
-          <img src='images/coderunner-agent.png' width="160">
-        </div>
+        <a href="https://li-huiyong.github.io/MetaStep">
+          <img src="images/coderunner-agent.png" width="160">
+        </a>
       </td>
       <td style="padding:8px;width:80%;vertical-align:middle">
         <p>
