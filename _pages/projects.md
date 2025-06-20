@@ -18,19 +18,19 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h3>
+        <h2>
 	  <a href="https://li-huiyong.github.io/MetaStep">
             <span style="font-weight: bold;">
 	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
 	    </span>
 	  </a>
-        </h3>
-        <h4>
+        </h2>
+        <p>
 	  JSPS Grant-in-Aid for Early-Career Scientists <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/">(25K17078)</a>
-	</h4>
-        <h4>
+	</p>
+        <p>
 	  2025-04-01 – 2028-03-31
-	</h4>
+	</p>
         <a href="https://li-huiyong.github.io/MetaStep">Project Page</a>
 	|
         <a href="https://doi.org/10.48550/arXiv.2504.03068">arxiv</a>
@@ -44,22 +44,22 @@ This project aims to develop MetaStep, an LLM-based support system designed to p
 
 <tr bgcolor="#ffffd0">
       <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/coderunner-agent.png" width="100%">
+          <img src="/images/mixai-learn.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h3>
+        <h2>
 	  <a href="https://sites.google.com/view/mixailearn/home">
             <span style="font-weight: bold;">
 	      miXai^learn: Multimodal Interactions, and Explainable AI for Embodied learning
 	    </span>
 	  </a>
-        </h3>
-        <h4>
+        </h2>
+        <p>
 	  JSPS Fund for the Promotion of Joint International Research (International Collaborative Research) <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KK0051/">(24KK0051)</a>
-	</h4>
-        <h4>
+	</p>
+        <p>
 	  2024-09-09 – 2027-03-31
-	</h4>
+	</p>
         <a href="https://sites.google.com/view/mixailearn/home">Project Page</a>
         <p></p>
         <p>
@@ -70,20 +70,20 @@ This joint research takes the standpoint that learning has embodied experiences 
 
  <tr bgcolor="#f8f4ed">
       <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/coderunner-agent.png" width="100%">
+          <img src="/images/mmlair.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h3>
+        <h2>
 	  <a href="https://li-huiyong.github.io/MMLAIR">
             <span style="font-weight: bold;">MMLAIR: Multimodal Learning Analytics in Reading</span>
 	  </a>
-        </h3>
-        <h4>
+        </h2>
+        <p>
 	  Education and Research Support Program on Mathematical and Data Science (Kyushu University)
-	</h4>
-        <h4>
+	</p>
+        <p>
 	  2024-06-18 – 2025-03-31
-	</h4>
+	</p>
         <a href="https://li-huiyong.github.io/MMLAIR">Project Page</a>
         <p></p>
         <p>
@@ -94,22 +94,22 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
 
 <tr bgcolor="#f8f4ed">
       <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/coderunner-agent.png" width="100%">
+          <img src="/images/goal-logo.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h3>
+        <h2>
 	  <a href="https://sites.google.com/view/letsgoal">
             <span style="font-weight: bold;">
 	      GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem
 	    </span>
 	  </a>
-        </h3>
-        <h4>
+        </h2>
+        <p>
 	  JSPS Grant-in-Aid for Scientific Research (B) <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25156/">(23K25156)</a>
-	</h4>
-        <h4>
-	  2025-04-01 – 2028-03-31
-	</h4>
+	</p>
+        <p>
+	  2022-04-01 – 2025-03-31
+	</p>
         <a href="https://sites.google.com/view/letsgoal">Project Page</a>
 	|
         <a href="https://sites.google.com/view/letsgoal/publication">Publications</a>
@@ -125,19 +125,19 @@ Learners need to be trained to be self-directed in their learning and daily acti
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h3>
+        <h2>
 	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/">
             <span style="font-weight: bold;">
 	      Cyberspace Infrastructure Technology Using Big Data and AI: Research on Evidence-Based Tailor-Made Education
 	    </span>
 	  </a>
-        </h3>
-        <h4>
+        </h2>
+        <p>
 	  The Second Phase of Cross-ministerial Strategic Innovation Promotion Program (SIP2) <a href="https://www.nedo.go.jp/activities/ZZJP2_100126.html">(JPNP18013)</a>
-	</h4>
-        <h4>
-	  2018.11.15 - 2023.3.31
-	</h4>
+	</p>
+        <p>
+	  2018-11-15 - 2023-03-31
+	</p>
         <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/">Project Page</a>
 	|
         <a href="https://www8.cao.go.jp/cstp/gaiyo/sip/sip2_seika/big3.pdf">Final Report in JP (p.31-36)</a>
