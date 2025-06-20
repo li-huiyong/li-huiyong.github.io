@@ -45,8 +45,8 @@ This project aims to develop MetaStep, an LLM-based support system designed to p
           <img src="/images/mixai-learn.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
-	  <a href="https://sites.google.com/view/mixailearn/home" target="_blank">
+        <h1>
+	  <a href="https://sites.google.com/view/mixailearn/home" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      miXai^learn: Multimodal Interactions, and Explainable AI for Embodied learning
 	  </a>
         </h1>
@@ -69,8 +69,8 @@ This joint research takes the standpoint that learning has embodied experiences 
           <img src="/images/mmlair.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
-	  <a href="https://li-huiyong.github.io/MMLAIR" target="_blank">
+        <h1>
+	  <a href="https://li-huiyong.github.io/MMLAIR" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 		MMLAIR: Multimodal Learning Analytics in Reading
 	  </a>
         </h1>
@@ -93,8 +93,8 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
           <img src="/images/goal-system.png" style="max-width: 100%; max-height: 100%;">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
-	  <a href="https://sites.google.com/view/letsgoal" target="_blank">
+        <h1>
+	  <a href="https://sites.google.com/view/letsgoal" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem
 	  </a>
         </h1>
@@ -119,8 +119,8 @@ Learners need to be trained to be self-directed in their learning and daily acti
           <img src="/images/sip2-leaf.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
-	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" target="_blank">
+        <h1>
+	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      Cyberspace Infrastructure Technology Using Big Data and AI: Research on Evidence-Based Tailor-Made Education
 	  </a>
         </h1>
