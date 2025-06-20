@@ -34,6 +34,7 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 
 
 <!---  Test html page  -->
+<table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr bgcolor="#ffffd0">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
@@ -41,10 +42,10 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
         </div>
       </td>
       <td style="padding:8px;width:80%;vertical-align:middle">
-        <p href="https://szymanowiczs.github.io/bolt3d">
+        <p>
           <span style="font-weight: bold;">MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education</span>
         </p>
-        JSPS funding
+        <p>JSPS funding</p>
         <br>
         <a href="https://li-huiyong.github.io/MetaStep">Project Page</a>
         /
@@ -55,5 +56,5 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
         </p>
       </td>
 </tr>
-
+</tbody></table>
 
