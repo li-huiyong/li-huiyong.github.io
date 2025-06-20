@@ -18,8 +18,8 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
-        <h1 style="font-weight: bold; text-decoration: none; color: #2486b9;">
-	  <a href="https://li-huiyong.github.io/MetaStep" target="_blank">
+        <h1>
+	  <a href="https://li-huiyong.github.io/MetaStep" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
 	  </a>
         </h1>
@@ -28,9 +28,9 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 	  <br>
 	  2025-04-01 – 2028-03-31
 	  <br>
-	  <a href="https://li-huiyong.github.io/MetaStep" style="text-decoration: none; color: blue;">Project Page</a>
+	  <a href="https://li-huiyong.github.io/MetaStep" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	  |
-          <a href="https://doi.org/10.48550/arXiv.2504.03068" style="text-decoration: none; color: blue;">arxiv</a>
+          <a href="https://doi.org/10.48550/arXiv.2504.03068" style="text-decoration: none; color: #2486b9;">arxiv</a>
           | Code
 	</h2>
         <p></p>
