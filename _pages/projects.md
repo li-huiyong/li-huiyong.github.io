@@ -93,8 +93,8 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
 </tr>
 
 <tr bgcolor="#f8f4ed">
-      <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/goal-logo.png" style="align: center; width: 75%">
+      <td style="padding:16px;width:30%;vertical-align:middle;text-align:center;">
+          <img src="/images/goal-system.png" style="max-width: 100%; max-height: 100%;">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
         <h2>
