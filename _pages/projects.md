@@ -94,7 +94,7 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
 
 <tr bgcolor="#f8f4ed">
       <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/goal-logo.png" width="100%">
+          <img src="/images/goal-logo.png" style="align: center; width: 75%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
         <h2>
@@ -121,8 +121,8 @@ Learners need to be trained to be self-directed in their learning and daily acti
 </tr>
 
 <tr bgcolor="#f8f4ed">
-      <td style="padding:16px;width:30%;vertical-align:middle">
-          <img src="/images/coderunner-agent.png" width="100%">
+      <td style="padding:16px;width:30%;vertical-align:middle;">
+          <img src="/images/sip2-leaf.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
         <h2>
