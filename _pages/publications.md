@@ -77,7 +77,7 @@ author_profile: true
 
 * Chia-Yu Hsu, Rwitajit Majumdar, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Extensive Reading at Home: Extracting Self-directed Reading Habits from Learning Logs.** _The 23rd International Conference on Artificial Intelligence in Education (AIED2022),_ 614–619, 2022.07. https://doi.org/10.1007/978-3-031-11644-5_57
 
-* Rwitajit Majumdar, Naomichi Tanimura, Yukihiro Arakawa, Yuta Nakamizo, Brendan Flanagan, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Learning at a Cafe and Learning at a Lab: Integrating Learning Logs with Smart Eyewear and Environmental Sensor Data.** _In 2022 International Conference on Advanced Learning Technologies (ICALT),_ 95-97, 2022.07.  https://doi.ieeecomputersociety.org/10.1109/ICALT55010.2022.00036
+* Rwitajit Majumdar, Naomichi Tanimura, Yukihiro Arakawa, Yuta Nakamizo, Brendan Flanagan, Huiyong Li, Yuanyuan Yang and Hiroaki Ogata. (2022). **Learning at a Cafe and Learning at a Lab: Integrating Learning Logs with Smart Eyewear and Environmental Sensor Data.** _In 2022 International Conference on Advanced Learning Technologies (ICALT),_ 95-97, 2022.07.  https://doi.org/10.1109/ICALT55010.2022.00036
 
 * Huiyong Li, Rwitajit Majumdar, Yuanyuan Yang and Hiroaki Ogata. (2022). **Perception-behavior differences in self-directed language learning among junior high school EFL learners.** _Proceedings of the 1st APSCE International Conference on Future Language Learning (ICFULL2022),_ 43, 2022.07. [PDF](https://www.eduhk.hk/ICFULL2022/Proceedings.pdf#page=49){:target="_blank"}
 
@@ -101,7 +101,7 @@ author_profile: true
 
 * Taisho Kondo, Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Hiroaki Ogata. (2020). **Design Explorations to Support Learner’s Mental Health using Wearable Device and GOAL application.** _Proceedings of the 28th International Conference on Computers in Education (ICCE2020),_ 394-399, 2020.11. [PDF](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/259786){:target="_blank"}
 
-* Rwitajit Majumdar, Huiyong Li, Yuan Yuan Yang, Brendan Flanagan, Gokhan Akçapınar, Hiroaki Ogata. (2020). **Oh! Another Deadline: Cohort Analysis of Learner’s Behaviors in Self-Directed Tasks.** _Proceedings of the IEEE 20th International Conference on Advanced Learning Technologies (ICALT2020),_ 259-261, 2020.07. https://ieeexplore.ieee.org/abstract/document/9155921
+* Rwitajit Majumdar, Huiyong Li, Yuan Yuan Yang, Brendan Flanagan, Gokhan Akçapınar, Hiroaki Ogata. (2020). **Oh! Another Deadline: Cohort Analysis of Learner’s Behaviors in Self-Directed Tasks.** _Proceedings of the IEEE 20th International Conference on Advanced Learning Technologies (ICALT2020),_ 259-261, 2020.07. https://doi.org/10.1109/ICALT49669.2020.00084
 
 * Huiyong Li, Yuan Yuan Yang, Rwitajit Majumdar, Gökhan Akçapınar, Brendan Flanagan, Hiroaki Ogata. (2019). **Modeling Self-Planning and Promoting Planning Skills in a Data-Rich Context.** _Proceedings of the 27th International Conference on Computers in Education (ICCE2019),_ 300-305, 2019.12. [PDF](https://www.researchgate.net/publication/337745707_Modeling_Self-Planning_and_Promoting_Planning_Skills_in_a_Data-Rich_Context){:target="_blank"}
 
@@ -122,17 +122,17 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Invited Talk</span>
 
-* Enhancing Students’ Self-Directed Learning with Learning Analytics Dashboard and AI Recommendation. _Kyushu University DDIn² International Smart Learning Environment Seminar._ Jan 27, 2025, Kyushu, Japan. https://dx.kyushu-u.ac.jp/news/seminar20250127/
+* Enhancing Students’ Self-Directed Learning with Learning Analytics Dashboard and AI Recommendation. _Kyushu University DDIn² International Smart Learning Environment Seminar._ Jan 27, 2025, Kyushu, Japan. [Link](https://dx.kyushu-u.ac.jp/news/seminar20250127/){:target="_blank"}
 
-* Empowering K-12 Students for Sustainable Learning Through Learning and Physical Activity Data. _Educational Big Data for Sustainable Society Symposium_, Jan 11, 2025, Kyoto, Japan. https://ederc.jp/2024/11/20250111-esdsymposium/
+* Empowering K-12 Students for Sustainable Learning Through Learning and Physical Activity Data. _Educational Big Data for Sustainable Society Symposium_, Jan 11, 2025, Kyoto, Japan. [Link](https://ederc.jp/2024/11/20250111-esdsymposium/){:target="_blank"}
 
-* LEAF System and its Demo Course. _SIG research seminar of Evidence-based Education Council_, Jan 28, 2023, Kyoto, Japan. https://ederc.jp/2023/09/20230128-sig1-5/
+* LEAF System and its Demo Course. _SIG research seminar of Evidence-based Education Council_, Jan 28, 2023, Kyoto, Japan. [Link](https://ederc.jp/2023/09/20230128-sig1-5/){:target="_blank"}
 
-* Goal-oriented Active Learning (GOAL) System to Promote Reading Engagement, Self-directed Learning Behavior, and Motivation in Extensive Reading. Top Conference Session 3-2, _FIT2022_, Sep 13, 2022, Yokohama, Japan. https://www.ipsj.or.jp/event/fit/fit2022/FIT2022_program/data/html/event/event_TCS3-2.html
+* Goal-oriented Active Learning (GOAL) System to Promote Reading Engagement, Self-directed Learning Behavior, and Motivation in Extensive Reading. Top Conference Session 3-2, _FIT2022_, Sep 13, 2022, Yokohama, Japan. [Link](https://www.ipsj.or.jp/event/fit/fit2022/FIT2022_program/data/html/event/event_TCS3-2.html){:target="_blank"}
 
-* Cultivating Self-Direction Skill using Learning Analytics and Artificial Intelligence. _New Education Expo 2022._ June 3, 2022, Tokyo, Japan. https://edu-expo.org/registration/2022/index.php?hall=T&new=true
+* Cultivating Self-Direction Skill using Learning Analytics and Artificial Intelligence. _New Education Expo 2022._ June 3, 2022, Tokyo, Japan. [Link}(https://edu-expo.org/registration/2022/index.php?hall=T&new=true){:target="_blank"}
 
-* Learning Analytics and Self-Direction Skill Cultivation. _Public Symposium on the Latest Trends in Learning Analytics Research and Practice._ March 13, 2022, Kyoto, Japan. https://eds.let.media.kyoto-u.ac.jp/?page_id=3319
+* Learning Analytics and Self-Direction Skill Cultivation. _Public Symposium on the Latest Trends in Learning Analytics Research and Practice._ March 13, 2022, Kyoto, Japan. [Link](https://eds.let.media.kyoto-u.ac.jp/?page_id=3319){:target="_blank"}
 
 * The Design and Practice of Learning Analytics for Foreign Language Teaching and Learning with BookRoll. _DUT-KU Joint Workshop 2019 on Learning Analytics._ Sep 8, 2019, Dalian, China.
 
