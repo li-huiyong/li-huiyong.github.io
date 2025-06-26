@@ -14,7 +14,7 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 <!---  New html page  -->
 <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr bgcolor="#ffffd0">
-      <td style="padding:16px;width:30%;vertical-align:middle">
+     <!---   <td style="padding:16px;width:30%;vertical-align:middle">
           <img src="/images/coderunner-agent.png" width="100%">
       </td>
       <td style="padding:8px;width:70%;vertical-align:middle">
@@ -37,7 +37,31 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
         <h2>
 This project aims to develop MetaStep, an LLM-based support system designed to promote self-regulated learning in introductory programming education. By seamlessly integrating students’ cognitive and metacognitive models into LLM-based scaffolding, MetaStep enables a gradual transfer of regulatory control from AI to students, supporting their development into self-directed learners.
         </h2>
+      </td> -->
+
+      <td style="padding:8px;width:100%;vertical-align:middle">
+        <h1>
+	  <a href="https://li-huiyong.github.io/MetaStep" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
+	  </a>
+        </h1>
+        <h2 tyle="color: gray">
+	  JSPS Grant-in-Aid for Early-Career Scientists <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/" style="text-decoration: none; color: black;">(25K17078)</a>
+	  <br>
+	  2025-04-01 – 2028-03-31
+	  <br>
+	  <a href="https://li-huiyong.github.io/MetaStep" style="text-decoration: none; color: #2486b9;">Project Page</a>
+	  |
+          <a href="https://doi.org/10.48550/arXiv.2504.03068" style="text-decoration: none; color: #2486b9;">arxiv</a>
+          | Code
+	</h2>
+        <p></p>
+        <img src="/images/coderunner-agent.png" alt="Project Image" style="width:100%; vertical-align:middle;"> 
+        <h2>
+This project aims to develop MetaStep, an LLM-based support system designed to promote self-regulated learning in introductory programming education. By seamlessly integrating students’ cognitive and metacognitive models into LLM-based scaffolding, MetaStep enables a gradual transfer of regulatory control from AI to students, supporting their development into self-directed learners.
+        </h2>
       </td>
+
 </tr>
 
 <tr bgcolor="#ffffd0">
