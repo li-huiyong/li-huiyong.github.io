@@ -141,3 +141,11 @@ author_profile: true
 
 * Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** _The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._ (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
 
+
+### <span style="color: Salmon; ">Web Links</span>
+
+* [arXiv](http://arxiv.org/a/li_h_21){:target="_blank"}
+* [ResearchGate Profile](https://www.researchgate.net/profile/Huiyong_Li5){:target="_blank"}
+* [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
+* [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
+* [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
