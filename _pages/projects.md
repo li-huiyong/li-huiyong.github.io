@@ -14,13 +14,13 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 <!---  New html page  -->
 <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr bgcolor="#ffffd0">
-      <td style="padding:8px;width:100%;vertical-align:middle">
+      <td style="padding:16px;width:100%;vertical-align:middle">
         <h1>
 	  <a href="https://li-huiyong.github.io/MetaStep" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education
 	  </a>
         </h1>
-        <h2 tyle="color: gray">
+        <p style="font-size: 28px; color: gray">
 	  JSPS Grant-in-Aid for Early-Career Scientists <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/" style="text-decoration: none; color: black;">(25K17078)</a>
 	  <br>
 	  2025-04-01 – 2028-03-31
@@ -29,12 +29,12 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
 	  |
           <a href="https://doi.org/10.48550/arXiv.2504.03068" style="text-decoration: none; color: #2486b9;">arxiv</a>
           | Code
-	</h2>
+	</p>
         <p></p>
-        <h2>
+        <p style="font-size: 28px;">
 This project aims to develop MetaStep, an LLM-based support system designed to promote self-regulated learning in introductory programming education. By seamlessly integrating students’ cognitive and metacognitive models into LLM-based scaffolding, MetaStep enables a gradual transfer of regulatory control from AI to students, supporting their development into self-directed learners.
-        </h2>
-	<img src="/images/coderunner-agent.png" alt="Project Image" style="max-width: 100%; max-height: 100%; vertical-align:middle;"> 
+        </p>
+	<img src="/images/coderunner-agent.png" alt="Project Image" style="max-width: 100%; max-height: 100%; padding:16px; vertical-align:middle;"> 
       </td>
 </tr>
 
@@ -45,7 +45,7 @@ This project aims to develop MetaStep, an LLM-based support system designed to p
 	      miXai^learn: Multimodal Interactions, and Explainable AI for Embodied learning
 	  </a>
         </h1>
-        <h2 tyle="color: gray">
+        <h2 style="color: gray">
 	  JSPS Fund for the Promotion of Joint International Research (International Collaborative Research) <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KK0051/" style="text-decoration: none; color: black;">(24KK0051)</a>
 	<br>
 	  2024-09-09 – 2027-03-31
@@ -67,7 +67,7 @@ This joint research takes the standpoint that learning has embodied experiences 
 		MMLAIR: Multimodal Learning Analytics in Reading
 	  </a>
         </h1>
-        <h2 tyle="color: gray">
+        <h2 style="color: gray">
 	  Education and Research Support Program on Mathematical and Data Science (Kyushu University)
 	<br>
 	  2024-06-18 – 2025-03-31
@@ -89,7 +89,7 @@ This project analyzes students' behavioral, cognitive, and emotional patterns du
 	      GOAL project: AI-supported self-directed learning lifestyle in data-rich educational ecosystem
 	  </a>
         </h1>
-        <h2 tyle="color: gray">
+        <h2 style="color: gray">
 	  JSPS Grant-in-Aid for Scientific Research (B) <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K25156/" style="text-decoration: none; color: black;">(23K25156)</a>
 	<br>
 	  2022-04-01 – 2025-03-31
@@ -113,7 +113,7 @@ Learners need to be trained to be self-directed in their learning and daily acti
 	      Cyberspace Infrastructure Technology Using Big Data and AI: Research on Evidence-Based Tailor-Made Education
 	  </a>
         </h1>
-        <h2 tyle="color: gray">
+        <h2 style="color: gray">
 	  The Second Phase of Cross-ministerial Strategic Innovation Promotion Program (SIP2) <a href="https://www.nedo.go.jp/activities/ZZJP2_100126.html" style="text-decoration: none; color: black;">(JPNP18013)</a>
 	<br>
 	  2018-11-15 - 2023-03-31
