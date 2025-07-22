@@ -11,6 +11,7 @@ author_profile: true
 Journals in Educational Technology
 ======
 * [Top Journals in Educational Technology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_educationaltechnology){:target="_blank"}
+* [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076){:target="_blank"}
 * [Educational Technology & Society (ET&S)](https://www.j-ets.net/){:target="_blank"}
 * [Journal of Computers in Education (JCE)](https://link.springer.com/journal/40692){:target="_blank"}
 * [Research and Practice in Technology Enhanced Learning (RPTEL)](https://rptel.apsce.net/index.php/RPTEL){:target="_blank"}
@@ -20,7 +21,6 @@ Journals in Educational Technology
 Journals in AI & Education
 ======
 * [International Journal of Artificial Intelligence in Education (IJAIED)](https://link.springer.com/journal/40593){:target="_blank"}
-* [IEEE Access](https://ieeeaccess.ieee.org/){:target="_blank"}
 * [IEEE Transactions on Artificial Intelligence (TAI)](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence){:target="_blank"}
 * [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems){:target="_blank"}
 * [Human–Computer Interaction (HCI)](https://www.tandfonline.com/journals/hhci20){:target="_blank"}
