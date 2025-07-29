@@ -47,6 +47,10 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
+* Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Shin-Ichiro Kubota, Soumyadeep Bhattacharya, Aditi Kothiyal, Prajakt Pande, Olga C. Santos, Irene-Angelica Chounta. (2025). **Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop.** _Proceedings of International Conference on Artificial Intelligence in Education 2025 (AIED2025),_ 315-320. 2025.07. [PDF](https://doi.org/10.1007/978-3-031-99267-4_41)
+
+* Rwitajit Majumdar, Changhao Liang, Patrick Ocheja, Huiyong Li. (2025). **A Cooperative Learning Framework with Joint Attention and Interaction Data in the LA-ReflecT Platform.** _Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA2025), 31,_ 1-3. 2025.05. [PDF](https://doi.org/10.1145/3715669.3726825)
+
 * Huiyong Li, Boxuan Ma. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
 
 * Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024). **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
