@@ -47,9 +47,15 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Shin-Ichiro Kubota, Soumyadeep Bhattacharya, Aditi Kothiyal, Prajakt Pande, Olga C. Santos, Irene-Angelica Chounta. (2025). **Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop.** _Proceedings of International Conference on Artificial Intelligence in Education 2025 (AIED2025),_ 315-320. 2025.07. [PDF](https://doi.org/10.1007/978-3-031-99267-4_41)
+* Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press) [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education/references){:target="_blank"}
 
-* Rwitajit Majumdar, Changhao Liang, Patrick Ocheja, Huiyong Li. (2025). **A Cooperative Learning Framework with Joint Attention and Interaction Data in the LA-ReflecT Platform.** _Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA2025), 31,_ 1-3. 2025.05. [PDF](https://doi.org/10.1145/3715669.3726825)
+* Huiyong Li, Boxuan Ma, Chengjiu Yin. (2025). **Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ (in press) [PDF](https://www.researchgate.net/publication/394050481_Examining_Metacognitive_Difficulties_in_Learning_Programming_Analysis_of_Student_Behavior_and_Strategy){:target="_blank"}
+
+* Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Effects of Goal-Setting and Action Planning on Physical Activity and Self-Directed Behavior among Junior High School Students.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ (in press) [PDF](https://www.researchgate.net/publication/394295447_Effects_of_Goal-Setting_and_Action_Planning_on_Physical_Activity_and_Self-_Directed_Behavior_among_Junior_High_School_Students){:target="_blank"}
+
+* Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Shin-Ichiro Kubota, Soumyadeep Bhattacharya, Aditi Kothiyal, Prajakt Pande, Olga C. Santos, Irene-Angelica Chounta. (2025). **Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop.** _Proceedings of International Conference on Artificial Intelligence in Education 2025 (AIED2025),_ 315-320. 2025.07. [PDF](https://doi.org/10.1007/978-3-031-99267-4_41){:target="_blank"}
+
+* Rwitajit Majumdar, Changhao Liang, Patrick Ocheja, Huiyong Li. (2025). **A Cooperative Learning Framework with Joint Attention and Interaction Data in the LA-ReflecT Platform.** _Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA2025), 31,_ 1-3. 2025.05. [PDF](https://doi.org/10.1145/3715669.3726825){:target="_blank"}
 
 * Huiyong Li, Boxuan Ma. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
 
@@ -153,3 +159,4 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
