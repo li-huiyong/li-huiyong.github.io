@@ -19,6 +19,8 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Journal</span>
 
+* Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Optimizing Learning Productivity: Personalized Recommendations for Habit-Building through Learning Analytics.** _Research and Practice in Technology Enhanced Learning, (in press)._ (ESCI; ISSN 1793-7078; IF: 3.1)
+
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, 20, 025._ https://doi.org/10.58459/rptel.2025.20025 (ESCI; ISSN 1793-7078; IF: 3.1)
 
 * Kensuke Takii, Brendan Flanagan, Huiyong Li, Yuanyuan Yang, Kento Koike, Hiroaki Ogata. (2025). **Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning.** _Research and Practice in Technology Enhanced Learning, 20, 027._ https://doi.org/10.58459/rptel.2025.20027 (ESCI; ISSN 1793-7078; IF: 3.1)
@@ -159,4 +161,5 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
