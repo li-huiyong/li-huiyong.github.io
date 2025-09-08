@@ -63,6 +63,8 @@ Research on education-specific LLM agents. Developing a multi-AI agent system ca
 
 🏆Awards and Honors
 ======
+2025.9: Best Short Paper Award of ICLEA2025, Asia-Pacific Society for Computers in Education (APSCE)
+
 2022.12: Best Reviewer Award of ICCE2022, Asia-Pacific Society for Computers in Education (APSCE)
 
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
