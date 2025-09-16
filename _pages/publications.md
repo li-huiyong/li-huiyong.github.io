@@ -134,6 +134,8 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Invited Talk</span>
 
+* Fostering Students’ Autonomy in Self-Regulated Learning. _Kyoto University ACCMS Seminar: Practices and Prospects of Educational Data Visualization and Analysis to Support Self-Regulated Learning._ Sep 16, 2025, Kyoto, Japan. [Link](https://www.media.kyoto-u.ac.jp/accms_web/event/3363.html){:target="_blank"}
+
 * Enhancing Students’ Self-Directed Learning with Learning Analytics Dashboard and AI Recommendation. _Kyushu University DDIn² International Smart Learning Environment Seminar._ Jan 27, 2025, Kyushu, Japan. [Link](https://dx.kyushu-u.ac.jp/news/seminar20250127/){:target="_blank"}
 
 * Empowering K-12 Students for Sustainable Learning Through Learning and Physical Activity Data. _Educational Big Data for Sustainable Society Symposium_, Jan 11, 2025, Kyoto, Japan. [Link](https://ederc.jp/2024/11/20250111-esdsymposium/){:target="_blank"}
@@ -161,6 +163,7 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
 
 
