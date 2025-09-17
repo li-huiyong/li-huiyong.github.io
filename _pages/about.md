@@ -69,10 +69,6 @@ Research on education-specific LLM agents. Developing a multi-AI agent system ca
 
 2020.2: Outstanding Research Award of Kyoto University ICT Innovation Symposium
 
-2018.6-2020.5: Chinese Government Graduate Student Overseas Study Program Scholarship
-
-2017.4-2018.3: Fukuoka City Rainbow Scholarship
-
 
 👨‍🏫Teaching and Mentoring
 ======
