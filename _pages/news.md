@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+* 9/2025: Paper on [**Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy**](https://library.apsce.net/index.php/ICLEA/article/view/5520) was awarded the **Best Short Paper Award** in [ICLEA2025](https://sites.google.com/leds.ait.kyushu-u.ac.jp/iclea2025)
+
+* 7/2025: Workshop on [**Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop**](https://sites.google.com/view/mixailearn/aied2025) was conducted in [AIED2025](https://aied2025.itd.cnr.it/) [PDF](https://doi.org/10.1007/978-3-031-99267-4_41)
+
 * 6/2025: The website has been renewed.
+
+* 4/2025: Paper on [**Design of AI-Powered Tool for Self-Regulation Support in Programming Education**](https://doi.org/10.48550/arXiv.2504.03068) was presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning. 
 
 * 4/2025: Project proposal on **MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education** was accepted as JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}.
 
@@ -60,4 +66,5 @@ author_profile: true
 * 12/2018: Paper on [**Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses**](https://rdcu.be/bcFJv) was published in [Research and Practice in Technology Enhanced Learning](https://telrp.springeropen.com/).
 
 * 12/2018: Welcome to my website!
+
 
