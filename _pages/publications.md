@@ -57,6 +57,8 @@ author_profile: true
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Effects of Goal-Setting and Action Planning on Physical Activity and Self-Directed Behavior among Junior High School Students.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5486){:target="_blank"}
 
+* Rwitajit Majumdar, Huiyong Li, Shin-Ichiro Kubota, Alison Gaylord, Takaaki Miyajima, Toshikazu Maeda. (2025). **Piloting Multimodal Learning Analytics Platform at a Japanese High School.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5479){:target="_blank"}
+
 * Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Shin-Ichiro Kubota, Soumyadeep Bhattacharya, Aditi Kothiyal, Prajakt Pande, Olga C. Santos, Irene-Angelica Chounta. (2025). **Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop.** _Proceedings of International Conference on Artificial Intelligence in Education 2025 (AIED2025),_ 315-320. 2025.07. [PDF](https://doi.org/10.1007/978-3-031-99267-4_41){:target="_blank"}
 
 * Rwitajit Majumdar, Changhao Liang, Patrick Ocheja, Huiyong Li. (2025). **A Cooperative Learning Framework with Joint Attention and Interaction Data in the LA-ReflecT Platform.** _Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA2025), 31,_ 1-3. 2025.05. [PDF](https://doi.org/10.1145/3715669.3726825){:target="_blank"}
@@ -165,6 +167,7 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
 
 
