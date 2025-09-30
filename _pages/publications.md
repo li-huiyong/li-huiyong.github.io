@@ -51,6 +51,8 @@ author_profile: true
 
 * Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press) [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education/references){:target="_blank"}
 
+* Huiyong Li. (2025). **Designing AI-powered Scaffolds to Foster Metacognition and Agency in EFL Writing.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press)
+
 * Huiyong Li, Boxuan Ma, Chengjiu Yin. (2025). **Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5520){:target="_blank"} **(Best Short Paper Award)**
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Effects of Goal-Setting and Action Planning on Physical Activity and Self-Directed Behavior among Junior High School Students.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025)_ [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5486){:target="_blank"}
@@ -163,6 +165,7 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
 
 
