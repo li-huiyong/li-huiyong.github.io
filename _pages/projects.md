@@ -109,7 +109,7 @@ Learners need to be trained to be self-directed in their learning and daily acti
 <tr bgcolor="#f8f4ed">
       <td style="padding:8px;width:100%;vertical-align:middle">
         <h1>
-	  <a href="https://www.let.media.kyoto-u.ac.jp/en/project/sip/" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://www.let.media.kyoto-u.ac.jp/en/sip2/" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 	      Cyberspace Infrastructure Technology Using Big Data and AI: Research on Evidence-Based Tailor-Made Education
 	  </a>
         </h1>
@@ -131,4 +131,5 @@ In this research, we collect and analyze learning data logs which is otherwise d
 </tr>
 
 </tbody></table>
+
 
