@@ -49,7 +49,7 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press) [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education/references){:target="_blank"}
+* Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press) [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education){:target="_blank"}
 
 * Huiyong Li. (2025). **Designing AI-powered Scaffolds to Foster Metacognition and Agency in EFL Writing.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025)_ (in press)
 
@@ -167,6 +167,7 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
 
 
