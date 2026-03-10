@@ -49,11 +49,11 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 5568._ 2025.12. [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education){:target="_blank"} [Short PDF](https://library.apsce.net/index.php/ICCE/article/view/5568){:target="_blank"}
+* Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 5975._ 2025.12. [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education){:target="_blank"} [Short PDF](https://library.apsce.net/index.php/ICCE/article/view/5975){:target="_blank"}
 
-* Huiyong Li. (2025). **Designing AI-powered Scaffolds to Foster Metacognition and Agency in EFL Writing.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 5718._ 2025.12. [PDF](https://library.apsce.net/index.php/ICCE/article/view/5718){:target="_blank"} 
+* Huiyong Li. (2025). **Designing AI-powered Scaffolds to Foster Metacognition and Agency in EFL Writing.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 6104._ 2025.12. [PDF](https://library.apsce.net/index.php/ICCE/article/view/6104){:target="_blank"} 
 
-* Rwitajit Majumdar, Shin-Ichiro Kubota, Huiyong Li. (2025). **Co-Designing AI and Multimodal Analytics Integrated Reflective Learning in Japanese High School Context.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 5602._ 2025.12. [PDF](https://library.apsce.net/index.php/ICCE/article/view/5602){:target="_blank"}
+* Rwitajit Majumdar, Shin-Ichiro Kubota, Huiyong Li. (2025). **Co-Designing AI and Multimodal Analytics Integrated Reflective Learning in Japanese High School Context.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 6012._ 2025.12. [PDF](https://library.apsce.net/index.php/ICCE/article/view/6012){:target="_blank"}
 
 * Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Yinjie Xie, Chenghao Gu, Atsushi Shimada, Shin'ichi Konomi. (2025). **Scaffolding Metacognition in Programming Education: Understanding Student-AI Interactions and Design Implications.** arXiv preprint [arXiv:2511.04144](https://doi.org/10.48550/arXiv.2511.04144).
 
@@ -171,6 +171,7 @@ author_profile: true
 * [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/X-8349-2018){:target="_blank"}
 * [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203988596){:target="_blank"}
 * [Pure Profile](https://kyushu-u.elsevierpure.com/en/persons/huiyong-li){:target="_blank"}
+
 
 
 
