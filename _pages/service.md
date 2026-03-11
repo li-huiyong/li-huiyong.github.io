@@ -34,16 +34,19 @@ author_profile: true
 * Educational Technology & Society (SSCI)
 * Humanities & Social Sciences Communications (SSCI)
 * Research and Practice in Technology Enhanced Learning (ESCI)
+* Technology, Knowledge and Learning (ESCI)
 
 ### <span style="color: #0f1423; ">Conference reviewing</span>
 
 * International Conference on Artificial Intelligence in Education (AIED)
 * International Conference on Learning Analytics & Knowledge (LAK)
+* Educational Data Mining Conference (EDM)
 * International Conference on Computers in Education (ICCE)
 * IEEE International Conference on Advanced Learning Technologies (IEEE ICALT)
 * International Conference on Activity and Behavior Computing (ABC)
 * Global Chinese Conference on Computers in Education (GCCCE)
 * International Conference on Learning Evidence and Analytics (ICLEA)
+
 
 
 
