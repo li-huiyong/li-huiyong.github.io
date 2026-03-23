@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* 3/2026: Paper on [**Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension**] was accepted to [AIED2026](https://www.aied-conference.org/2026).
+
 * 9/2025: Paper on [**Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy**](https://library.apsce.net/index.php/ICLEA/article/view/5520) was awarded the **Best Short Paper Award** in [ICLEA2025](https://sites.google.com/leds.ait.kyushu-u.ac.jp/iclea2025)
 
 * 7/2025: Workshop on [**Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop**](https://sites.google.com/view/mixailearn/aied2025) was conducted in [AIED2025](https://aied2025.itd.cnr.it/) [PDF](https://doi.org/10.1007/978-3-031-99267-4_41)
