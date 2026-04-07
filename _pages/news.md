@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+* 4/2026: Paper on **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation** was accepted to [EDM2026](https://educationaldatamining.org/edm2026/).
+
 * 3/2026: Paper on **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension** was accepted to [AIED2026](https://www.aied-conference.org/2026).
+
+* 3/2026: Workshop on **HAI-Agency: Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning** was accepted to [AIED2026](https://www.aied-conference.org/2026). Website: https://open-aied.github.io/HAI-Agency/
+
+* 1/2026: Served as Virtual Experience Co-Chair of [AIED 2026](https://www.aied-conference.org/2026) in Seoul, South Korea.
 
 * 7/2025: Paper on [**CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.**](https://library.apsce.net/index.php/ICCE/article/view/5975) was accepted to [ICCE2025](https://icce2025.study.iitm.ac.in/).
 
