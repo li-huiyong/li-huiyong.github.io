@@ -49,7 +49,13 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Takuya Iwanaga, Huiyong Li, Boxuan Ma, Chengjiu Yin. (2026). **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension.** _International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press)
+* Boxuan Ma, Huiyong Li. (2026). **Deriving Common Novice Programming Error Patterns from Student Submissions using LLMs.** _Proceedings of the 2nd International Conference on Learning Evidence and Analytics (ICLEA2026)_ (in press)
+
+* Huiyong Li, Boxuan Ma. (2026). **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation.** _Proceedings of the 18th International Conference on Educational Data Mining (EDM2026)_  (in press)
+
+* Takuya Iwanaga, Huiyong Li*, Boxuan Ma, Chengjiu Yin. (2026). **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension.** _Proceedings of the International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press)
+
+* Yiling Dai, Boxuan Ma, Huiyong Li*, Patrick Ocheja, Kyoungwon Seo, Brendan Flanagan. (2026). **HAI-Agency: Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning.** _Proceedings of the International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press)
 
 * Huiyong Li, Boxuan Ma. (2025). **CodeRunner Agent: Integrating AI Feedback and Self-Regulated Learning to Support Programming Education.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 5975._ 2025.12. [PDF](https://www.researchgate.net/publication/393975868_CodeRunner_Agent_Integrating_AI_Feedback_and_Self-Regulated_Learning_to_Support_Programming_Education){:target="_blank"} [Short PDF](https://library.apsce.net/index.php/ICCE/article/view/5975){:target="_blank"}
 
