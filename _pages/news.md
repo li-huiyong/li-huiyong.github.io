@@ -11,7 +11,7 @@ author_profile: true
 
 * 3/2026: Paper on **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension** was accepted to [AIED2026](https://www.aied-conference.org/2026).
 
-* 3/2026: Workshop on **HAI-Agency: Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning** was accepted to [AIED2026](https://www.aied-conference.org/2026). Website: https://open-aied.github.io/HAI-Agency/
+* 3/2026: Workshop on **HAI-Agency: Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning** was accepted to [AIED2026](https://www.aied-conference.org/2026). Welcome to check our [HAI-Agency Website](https://open-aied.github.io/HAI-Agency/) to join or submit your work!
 
 * 1/2026: Served as Virtual Experience Co-Chair of [AIED 2026](https://www.aied-conference.org/2026) in Seoul, South Korea.
 
