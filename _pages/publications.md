@@ -51,9 +51,9 @@ author_profile: true
 
 * Boxuan Ma, Huiyong Li. (2026). **Deriving Common Novice Programming Error Patterns from Student Submissions using LLMs.** _Proceedings of the 2nd International Conference on Learning Evidence and Analytics (ICLEA2026)_ (in press)
 
-* Huiyong Li, Boxuan Ma. (2026). **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation.** _Proceedings of the 18th International Conference on Educational Data Mining (EDM2026)_  (in press)
+* Huiyong Li, Boxuan Ma. (2026). **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation.** _Proceedings of the 18th International Conference on Educational Data Mining (EDM2026)_  (in press) (Acceptance Rate: 21%)
 
-* Takuya Iwanaga, Huiyong Li*, Boxuan Ma, Chengjiu Yin. (2026). **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension.** _Proceedings of the International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press)
+* Takuya Iwanaga, Huiyong Li*, Boxuan Ma, Chengjiu Yin. (2026). **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension.** _Proceedings of the International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press) (Acceptance Rate: 15.3%)
 
 * Yiling Dai, Boxuan Ma, Huiyong Li*, Patrick Ocheja, Kyoungwon Seo, Brendan Flanagan. (2026). **HAI-Agency: Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning.** _Proceedings of the International Conference on Artificial Intelligence in Education 2026 (AIED2026)_ (in press)
 
