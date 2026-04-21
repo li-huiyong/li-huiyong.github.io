@@ -72,6 +72,11 @@ Research on education-specific LLM agents. Developing a multi-AI agent system ca
 
 👨‍🏫Teaching and Mentoring
 ======
+
+2026.4-: Instructor, Primary Course of Cyber Security, Kyushu University
+
+2024.10-: Section instructor, Advanced Studies in Educational Technology, Kyushu University
+
 2022.05: Guest Lecturer, Information Literacy Education and Learning Technology, National Taiwan University of Science and Technology
 
 2017.10-2018.2: Teaching Assistant, Interdisciplinary Collaborative Learning of Social Issues, Kyushu University
