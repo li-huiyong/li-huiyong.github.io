@@ -63,7 +63,7 @@ This joint research takes the standpoint that learning has embodied experiences 
  <tr bgcolor="#f8f4ed">
       <td style="padding:8px;width:100%;vertical-align:middle">
         <h1>
-	  <a href="https://github.com/li-huiyong/NEXT-AIR" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
+	  <a href="https://li-huiyong.github.io/NEXT-AIR" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 		NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics
 	  </a>
         </h1>
@@ -72,7 +72,7 @@ This joint research takes the standpoint that learning has embodied experiences 
 	<br>
 	  2026-05-15 – 2027-03-31
 	<br>
-        <a href="https://github.com/li-huiyong/NEXT-AIR" style="text-decoration: none; color: #2486b9;">Project Page</a>
+        <a href="https://li-huiyong.github.io/NEXT-AIR" style="text-decoration: none; color: #2486b9;">Project Page</a>
 	</p>
         <p></p>
         <p style="font-size: 18px; text-align: justify;">
