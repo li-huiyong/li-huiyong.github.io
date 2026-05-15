@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* 5/2026: Project proposal on **NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics** was accepted by Kyushu University.
+
 * 4/2026: Paper on **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation** was accepted to [EDM2026](https://educationaldatamining.org/edm2026/).
 
 * 3/2026: Paper on **Visual Attention Transitions and Self-Regulated Help Seeking in Programming Comprehension** was accepted to [AIED2026](https://www.aied-conference.org/2026).
