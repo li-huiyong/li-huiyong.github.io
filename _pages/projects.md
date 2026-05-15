@@ -63,6 +63,28 @@ This joint research takes the standpoint that learning has embodied experiences 
  <tr bgcolor="#f8f4ed">
       <td style="padding:8px;width:100%;vertical-align:middle">
         <h1>
+	  <a href="https://github.com/li-huiyong/NEXT-AIR" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
+		NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics
+	  </a>
+        </h1>
+        <p style="font-size: 18px; color: gray">
+	  Researcher Network Formation Promotion Program with Strategic Partners (Kyushu University)
+	<br>
+	  2026-05-15 – 2027-03-31
+	<br>
+        <a href="https://github.com/li-huiyong/NEXT-AIR" style="text-decoration: none; color: #2486b9;">Project Page</a>
+	</p>
+        <p></p>
+        <p style="font-size: 18px; text-align: justify;">
+This project is an international collaboration between Kyushu University and National Taiwan University to explore how AI and robotics can support next-generation education. It brings together experts, young researchers, and graduate students to develop multimodal learning analytics, design adaptive intervention models, and formulate human-centered design principles for next-generation embodied learning.
+        </p>
+	<img src="/images/next-air.png" alt="Project Image" style="max-width: 100%; max-height: 100%; vertical-align:middle;">
+      </td>
+</tr>
+
+ <tr bgcolor="#f8f4ed">
+      <td style="padding:8px;width:100%;vertical-align:middle">
+        <h1>
 	  <a href="https://li-huiyong.github.io/MMLAIR" target="_blank" style="font-weight: bold; text-decoration: none; color: #2486b9;">
 		MMLAIR: Multimodal Learning Analytics in Reading
 	  </a>
