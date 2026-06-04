@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-* 5/2026: Project proposal on **NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics** was accepted by Kyushu University.
+* 6/2026: Our [CodeRunner Agent](https://github.com/open-aied/coderunner-agent) was released as open source. If you use the Moodle CodeRunner plugin, please feel free to explore it. Discussions and collaborations are warmly welcome.
+
+* 5/2026: Project proposal on **NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics** was accepted by Kyushu University. Please check the [Website](https://li-huiyong.github.io/NEXT-AIR)
 
 * 4/2026: Paper on **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation** was accepted to [EDM2026](https://educationaldatamining.org/edm2026/).
 
@@ -27,11 +29,11 @@ author_profile: true
 
 * 4/2025: Paper on [**Design of AI-Powered Tool for Self-Regulation Support in Programming Education**](https://doi.org/10.48550/arXiv.2504.03068) was presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning. 
 
-* 4/2025: Project proposal on **MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education** was accepted as JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}.
+* 4/2025: Project proposal on **MetaStep: Large Language Model-based Metacognitive Scaffolding in Introductory Programming Education** was accepted as JSPS Grant-in-Aid for Early-Career Scientists [(25K17078)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17078/){:target="_blank"}. Please check the [Website](https://li-huiyong.github.io/MetaStep)
 
 * 8/2024: Paper on [**Self-directed extensive reading with social support: effect on reading and learning performance of high and low English proficiency students**](https://doi.org/10.58459/rptel.2025.20025) was published in [Research and Practice in Technology Enhanced Learning](https://rptel.apsce.net/index.php/RPTEL/article/view/2025-20025).
 
-* 6/2024: Project proposal on **Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures** was accepted by Kyushu University.
+* 6/2024: Project proposal on **Mining Students’ Learning Strategy and Predicting Knowledge Gain in Reading using Learning Logging, Eye-tracking and Physiological Measures** was accepted by Kyushu University. Please check the [Website](https://li-huiyong.github.io/MMLAIR)
 
 * 3/2024: Paper on [**GOAL - A data-rich environment to foster self-direction skills across learning and physical contexts**](https://www.jstor.org/stable/48787017) was published in [Educational Technology & Society](https://www.j-ets.net/collection/published-issues/27_3).
 
