@@ -14,15 +14,17 @@ author_profile: true
 * [SoLAR](https://www.solaresearch.org/){:target="_blank"} 2019-
 * [EDE](https://ederc.jp/english/){:target="_blank"} 2022-
 * [ACM](https://www.acm.org/){:target="_blank"} 2025-
-* [International AIED Society](https://iaied.org/){:target="_blank"} 2025-
+* [IAIED](https://iaied.org/){:target="_blank"} 2025-
+* [IEDMS](https://educationaldatamining.org/){:target="_blank"} 2026-
 
 ### <span style="color: #0f1423; ">Organizing Activities</span>
 
-* Chair of [HAI-Agency@AIED2026](https://open-aied.github.io/HAI-Agency/){:target="_blank"}, [LA@ICCE2022 workshop](https://sites.google.com/view/teel-workshop/icce/laicce2022){:target="_blank"}, [LA@ICCE2021 workshop](https://sites.google.com/view/teel-workshop/icce/laicce2021){:target="_blank"}
-* Co-Chair of [EDE SIG1](https://ederc.jp/english/){:target="_blank"} 2022-2026, [APSCE LAEDM SIG](https://apsce.net/groups/sig-10-learning-analytics-and-educational-data-mining-laedm){:target="_blank"} 2022-2023, APSCE Student Wing 2018
-* Co-Chair of Virtual Experience@AIED2026, LEET2026, MiXai^learn@AIED2025 workshop, LEET2025, LEET2024, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019
+* Chair of [LearningSuccess@ICCE2026](https://yinlabkyudai.github.io/learning-success/){:target="_blank"}, [HAI-Agency@AIED2026](https://open-aied.github.io/HAI-Agency/){:target="_blank"}, [LA@ICCE2022](https://sites.google.com/view/teel-workshop/icce/laicce2022){:target="_blank"}, [LA@ICCE2021](https://sites.google.com/view/teel-workshop/icce/laicce2021){:target="_blank"}
 * Vice-Chair of ICLEA2025
-* Session Chair of LEET2026, ICLEA2025, LEET2025, ICCE2024, LEET2024
+* Co-Chair of Virtual Experience of AIED2026
+* Co-Chair of [EDE SIG1](https://ederc.jp/english/){:target="_blank"} 2022-2026, [APSCE LAEDM SIG](https://apsce.net/groups/sig-10-learning-analytics-and-educational-data-mining-laedm){:target="_blank"} 2022-2023, APSCE Student Wing 2018
+* Co-Chair of MiXai^learn@ECTEL2026 workshop, LEET2026, MiXai^learn@AIED2025 workshop, LEET2025, LEET2024, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019
+* Session Chair of ICLEA2026, LEET2026, ICLEA2025, LEET2025, ICCE2024, LEET2024
 
 ### <span style="color: #0f1423; ">Journal reviewing</span>
 
@@ -33,6 +35,7 @@ author_profile: true
 * Journal of Computer Assisted Learning (SSCI)
 * Educational Technology & Society (SSCI)
 * Humanities & Social Sciences Communications (SSCI)
+* Educational Psychology (SSCI)
 * Research and Practice in Technology Enhanced Learning (ESCI)
 * Technology, Knowledge and Learning (ESCI)
 
