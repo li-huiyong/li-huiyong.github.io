@@ -21,7 +21,7 @@ author_profile: true
 
 * Chair of [LearningSuccess@ICCE2026](https://yinlabkyudai.github.io/learning-success/){:target="_blank"}, [HAI-Agency@AIED2026](https://open-aied.github.io/HAI-Agency/){:target="_blank"}, [LA@ICCE2022](https://sites.google.com/view/teel-workshop/icce/laicce2022){:target="_blank"}, [LA@ICCE2021](https://sites.google.com/view/teel-workshop/icce/laicce2021){:target="_blank"}
 * Vice-Chair of ICLEA2025
-* Co-Chair of Virtual Experience of AIED2026
+* Co-Chair of C6 at GCCCE2027, Virtual Experience at AIED2026
 * Co-Chair of [EDE SIG1](https://ederc.jp/english/){:target="_blank"} 2022-2026, [APSCE LAEDM SIG](https://apsce.net/groups/sig-10-learning-analytics-and-educational-data-mining-laedm){:target="_blank"} 2022-2023, APSCE Student Wing 2018
 * Co-Chair of MiXai^learn@ECTEL2026 workshop, LEET2026, MiXai^learn@AIED2025 workshop, LEET2025, LEET2024, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019
 * Session Chair of ICLEA2026, LEET2026, ICLEA2025, LEET2025, ICCE2024, LEET2024
