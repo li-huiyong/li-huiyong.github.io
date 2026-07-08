@@ -49,7 +49,7 @@ author_profile: true
 
 ### <span style="color: Salmon; ">International Conference</span>
 
-* Boxuan Ma, Huiyong Li. (2026). **Deriving Common Novice Programming Error Patterns from Student Submissions using LLMs.** _Proceedings of the 2nd International Conference on Learning Evidence and Analytics (ICLEA2026), 6321._ 2026.06. [PDF](https://library.apsce.net/index.php/ICLEA/article/view/6321){:target="_blank"} [Poster](https://www.researchgate.net/publication/408572963_Deriving_Common_Novice_Programming_Error_Patterns_from_Student_Submissions_using_LLMs){:target="_blank"}
+* Boxuan Ma, Huiyong Li. (2026). **Deriving Common Novice Programming Error Patterns from Student Submissions using LLMs.** _Proceedings of the 2nd International Conference on Learning Evidence and Analytics (ICLEA2026), 6321._ 2026.06. [PDF](https://library.apsce.net/index.php/ICLEA/article/view/6321){:target="_blank"} [Poster](https://www.researchgate.net/publication/408573461_Deriving_Common_Novice_Programming_Error_Patterns_from_Student_Submissions_using_LLMs){:target="_blank"}
 
 * Huiyong Li, Boxuan Ma. (2026). **Multimodal Learning Analytics for Programming: Cognitive Difficulties, Attention Dynamics, and Physiological Regulation.** _Proceedings of the 19th International Conference on Educational Data Mining (EDM2026),_ 516–523, 2026.06. (Acceptance Rate: 21%) [PDF](https://doi.org/10.5281/zenodo.21039830){:target="_blank"}
 
