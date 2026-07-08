@@ -15,7 +15,7 @@ redirect_from:
 <!---  projects, achievements and awards, services  -->
 * Email: lihuiyong123 [at] gmail.com
 * Laboratory: [Prof. Chengjiu Yin's AIE Lab](https://yin.cc.kyushu-u.ac.jp/home/lab/en/member.html){:target="_blank"}
-* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN. Access at [41st bldg of Campus Map](https://www.kyushu-u.ac.jp/f/32764/2018ito-en.pdf){:target="_blank"}
+* Office: Room 501, Research Institute for Information Technology, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, JAPAN. Access at [40th bldg of Campus Map](https://www.kyushu-u.ac.jp/f/52464/ITO_1_Eng.pdf){:target="_blank"}
 
 🤖Research
 ======
@@ -47,7 +47,7 @@ Research on education-specific LLM agents. Developing a multi-AI agent system ca
 
 (Supervisor: [Prof. Hiroaki Ogata](https://sites.google.com/site/hiroakiogata/home){:target="_blank"})
 
-2007.9-2011.6: Bachelor of Engineering, [School of Software Engineering](http://ssdut.dlut.edu.cn/en.htm){:target="_blank"}, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
+2007.9-2011.6: Bachelor of Engineering, School of Software Engineering, [Dalian University of Technology](http://en.dlut.edu.cn/){:target="_blank"}
 
 💻Employment
 ======
