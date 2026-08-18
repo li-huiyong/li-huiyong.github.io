@@ -19,6 +19,8 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Journal</span>
 
+* Boxuan Ma, Yinjie Xie, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'ichi Konomi. (2026). **Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools.** _International Journal of Human-Computer Interaction, (in press)_ (SCI and SSCI; ISSN 1532-7590; IF: 6.1)
+
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2026). **Optimizing Learning Productivity: Personalized Recommendations for Habit-Building through Learning Analytics.** _Research and Practice in Technology Enhanced Learning, 21,_ 045. https://doi.org/10.58459/rptel.2026.21045 (ESCI; ISSN 1793-7078; IF: 3.1)
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Self-Directed Extensive Reading with Social Support: Effect on Reading and Learning Performance of High and Low English Proficiency Students.** _Research and Practice in Technology Enhanced Learning, 20, 025._ https://doi.org/10.58459/rptel.2025.20025 (ESCI; ISSN 1793-7078; IF: 3.1)
@@ -48,6 +50,10 @@ author_profile: true
 * Huiyong Li, Brendan Flanagan, Shin’ichi Konomi, Hiroaki Ogata. (2018). **Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses.** _Research and Practice in Technology Enhanced Learning, 13, 19._ https://doi.org/10.1186/s41039-018-0087-7 [BibTeX](https://li-huiyong.github.io/resources/li2018measuring.bib){:target="_blank"} (ESCI; ISSN 1793-7078; JCI Q2)
 
 ### <span style="color: Salmon; ">International Conference</span>
+
+* Boxuan Ma, Huiyong Li, Kyosuke Takami, Shin'Ichi Konomi. (2026). **CodeRunner Agent: An Open-Source Moodle Plugin for LLM-Powered Self-Regulated Learning Support in Programming Practice.** _Proceedings of the 34th International Conference on Computers in Education (ICCE2026), (in press)_
+
+* Xiaonan Wang, Yi Sun, Huiyong Li, Wei Shi, Hidenari Kiyomitsu, Chengjiu Yin. (2026). **Reproducing the Note Type Taxonomy for Programming Video Annotations with Rules, ML, and LLMs.** _Proceedings of the 34th International Conference on Computers in Education (ICCE2026), (in press)_
 
 * Boxuan Ma, Huiyong Li. (2026). **Deriving Common Novice Programming Error Patterns from Student Submissions using LLMs.** _Proceedings of the 2nd International Conference on Learning Evidence and Analytics (ICLEA2026), 6321._ 2026.06. [PDF](https://library.apsce.net/index.php/ICLEA/article/view/6321){:target="_blank"} [Poster](https://www.researchgate.net/publication/408573461_Deriving_Common_Novice_Programming_Error_Patterns_from_Student_Submissions_using_LLMs){:target="_blank"}
 
