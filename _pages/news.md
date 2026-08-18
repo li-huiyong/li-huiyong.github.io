@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* 7/2026: Paper on **CodeRunner Agent: An Open-Source Moodle Plugin for LLM-Powered Self-Regulated Learning Support in Programming Practice.** was accepted to [ICCE2026](https://icce2026.csse.canterbury.ac.nz/).
+
 * 6/2026: Our [CodeRunner Agent](https://github.com/open-aied/coderunner-agent) was released as open source. If you use the Moodle CodeRunner plugin, please feel free to explore it. Discussions and collaborations are warmly welcome.
 
 * 5/2026: Project proposal on **NEXT-AIR: International Research Network for Next-Generation Learning Support through AI and Robotics** was accepted by Kyushu University. Please check the [Website](https://li-huiyong.github.io/NEXT-AIR)
