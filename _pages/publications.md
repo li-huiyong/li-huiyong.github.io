@@ -19,6 +19,8 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Journal</span>
 
+* Zizheng Liu, Huiyong Li, Na Zhao, Wudao Yang. (2026). **Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation.** _Biomedical Signal Processing and Control, (in press)_ (SCI; ISSN 1746-8108; IF: 5.7)
+
 * Boxuan Ma, Yinjie Xie, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'ichi Konomi. (2026). **Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools.** _International Journal of Human-Computer Interaction, (in press)_ (SCI and SSCI; ISSN 1532-7590; IF: 6.1)
 
 * Chia-Yu Hsu, Izumi Horikoshi, Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2026). **Optimizing Learning Productivity: Personalized Recommendations for Habit-Building through Learning Analytics.** _Research and Practice in Technology Enhanced Learning, 21,_ 045. https://doi.org/10.58459/rptel.2026.21045 (ESCI; ISSN 1793-7078; IF: 3.1)
