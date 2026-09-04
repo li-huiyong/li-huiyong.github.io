@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* 9/2026: Paper on [**Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation**](https://doi.org/10.1016/j.bspc.2026.111380) was published in [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
+
 * 7/2026: Paper on **CodeRunner Agent: An Open-Source Moodle Plugin for LLM-Powered Self-Regulated Learning Support in Programming Practice.** was accepted to [ICCE2026](https://icce2026.csse.canterbury.ac.nz/).
 
 * 6/2026: Our [CodeRunner Agent](https://github.com/open-aied/coderunner-agent) was released as open source. If you use the Moodle CodeRunner plugin, please feel free to explore it. Discussions and collaborations are warmly welcome.
