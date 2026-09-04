@@ -19,7 +19,7 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Zizheng Liu, Huiyong Li, Na Zhao, Wudao Yang. (2026). **Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation.** _Biomedical Signal Processing and Control, (in press)_ (SCI; ISSN 1746-8108; IF: 5.7)
+* Zizheng Liu, Huiyong Li, Na Zhao, Wudao Yang. (2026). **Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation.** _Biomedical Signal Processing and Control, 129, 111380._ https://doi.org/10.1016/j.bspc.2026.111380 (SCI; ISSN 1746-8108; IF: 5.7)
 
 * Boxuan Ma, Yinjie Xie, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'ichi Konomi. (2026). **Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools.** _International Journal of Human-Computer Interaction, (in press)_ (SCI and SSCI; ISSN 1532-7590; IF: 6.1)
 
