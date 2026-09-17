@@ -71,8 +71,6 @@ author_profile: true
 
 * Rwitajit Majumdar, Shin-Ichiro Kubota, Huiyong Li. (2025). **Co-Designing AI and Multimodal Analytics Integrated Reflective Learning in Japanese High School Context.** _Proceedings of the 33rd International Conference on Computers in Education (ICCE2025), 6012._ 2025.12. [PDF](https://library.apsce.net/index.php/ICCE/article/view/6012){:target="_blank"}
 
-* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Yinjie Xie, Chenghao Gu, Atsushi Shimada, Shin'ichi Konomi. (2025). **Scaffolding Metacognition in Programming Education: Understanding Student-AI Interactions and Design Implications.** arXiv preprint [arXiv:2511.04144](https://doi.org/10.48550/arXiv.2511.04144).
-
 * Huiyong Li, Boxuan Ma, Chengjiu Yin. (2025). **Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025), 5520._ 2025.09. [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5520){:target="_blank"} **(Best Short Paper Award)**
 
 * Huiyong Li, Rwitajit Majumdar, Hiroaki Ogata. (2025). **Effects of Goal-Setting and Action Planning on Physical Activity and Self-Directed Behavior among Junior High School Students.** _Proceedings of the 1st International Conference on Learning Evidence and Analytics (ICLEA2025), 5486._ 2025.09. [PDF](https://library.apsce.net/index.php/ICLEA/article/view/5486){:target="_blank"}
@@ -82,8 +80,6 @@ author_profile: true
 * Rwitajit Majumdar, Huiyong Li, Brendan Flanagan, Shin-Ichiro Kubota, Soumyadeep Bhattacharya, Aditi Kothiyal, Prajakt Pande, Olga C. Santos, Irene-Angelica Chounta. (2025). **Multimodal Interactions and Explainable AI for Reflective Physical and Online Learning: MiXai^learn Workshop.** _Proceedings of International Conference on Artificial Intelligence in Education 2025 (AIED2025),_ 315-320. 2025.07. [PDF](https://doi.org/10.1007/978-3-031-99267-4_41){:target="_blank"}
 
 * Rwitajit Majumdar, Changhao Liang, Patrick Ocheja, Huiyong Li. (2025). **A Cooperative Learning Framework with Joint Attention and Interaction Data in the LA-ReflecT Platform.** _Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA2025), 31,_ 1-3. 2025.05. [PDF](https://doi.org/10.1145/3715669.3726825){:target="_blank"}
-
-* Huiyong Li, Boxuan Ma. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
 
 * Yuki Oe, Etsuko Kumamoto, Huiyong Li, Chengjiu Yin. (2024). **Exploring the relationship between assignment submission behavior and final grade of information literacy education using big data.** _Proceedings of the 32th International Conference on Computers in Education (ICCE2024),_ 437-439, 2024.11. https://doi.org/10.58459/icce.2024.4879
 
@@ -178,6 +174,23 @@ author_profile: true
 ### <span style="color: Salmon; ">Poster Presentation</span>
 
 * Huiyong Li, Yuan Yuan Yang. (2020). **LET's GOAL: Toward to Goal Oriented Active Learner.** _The 14th ICT Innovation Symposium at Kyoto University, Kyoto, Japan._ (**Outstanding Research Award**) [PDF](https://www.researchgate.net/publication/331398463_LET%27s_GOAL_Toward_to_Goal_Oriented_Active_Learner){:target="_blank"}
+
+
+### <span style="color: Salmon; ">Preprint</span>
+
+* Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit. (2026). **Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books.** arXiv preprint [arXiv:2607.00445v2](https://doi.org/10.48550/arXiv.2607.00445)
+
+* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'ichi Konomi. (2026). **AI-Assisted Help-Seeking Trajectories in Programming Education from an SRL-Informed Perspective.** arXiv preprint [arXiv:2606.22809](https://doi.org/10.48550/arXiv.2606.22809)
+
+* Boxuan Ma, Yinjie Xie, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'Ichi Konomi. (2026). **Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools.** arXiv preprint [arXiv:2603.22673](https://doi.org/10.48550/arXiv.2603.22673)
+
+* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Atsushi Shimada, Shin'ichi Konomi. (2026). **Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance.** arXiv preprint [arXiv:2603.22672](https://doi.org/10.48550/arXiv.2603.22672)
+
+* Boxuan Ma, Baofeng Ren, Huiyong Li, Gen Li, Li Chen, Atsushi Shimada, Shin'Ichi Konomi. (2026). **Designing a Meta-Reflective Dashboard for Instructor Insight into Student-AI Interactions.** arXiv preprint [arXiv:2603.22674](https://doi.org/10.48550/arXiv.2603.22674)
+
+* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Yinjie Xie, Chenghao Gu, Atsushi Shimada, Shin'ichi Konomi. (2025). **Scaffolding Metacognition in Programming Education: Understanding Student-AI Interactions and Design Implications.** arXiv preprint [arXiv:2511.04144](https://doi.org/10.48550/arXiv.2511.04144)
+
+* Huiyong Li, Boxuan Ma. (2025). **Design of AI-Powered Tool for Self-Regulation Support in Programming Education.** arXiv preprint [arXiv:2504.03068](https://doi.org/10.48550/arXiv.2504.03068). Presented in CHI 2025 Workshop: Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning.
 
 
 ### <span style="color: Salmon; ">Web Links</span>
