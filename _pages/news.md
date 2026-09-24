@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* 9/2026: Paper on [**Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools**](https://doi.org/10.1080/10447318.2026.2730083) was published in [International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20).
+
 * 9/2026: Paper on [**Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation**](https://doi.org/10.1016/j.bspc.2026.111380) was published in [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
 
 * 7/2026: Paper on **CodeRunner Agent: An Open-Source Moodle Plugin for LLM-Powered Self-Regulated Learning Support in Programming Practice.** was accepted to [ICCE2026](https://icce2026.csse.canterbury.ac.nz/).
