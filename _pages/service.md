@@ -16,6 +16,7 @@ author_profile: true
 * [ACM](https://www.acm.org/){:target="_blank"} 2025-
 * [IAIED](https://iaied.org/){:target="_blank"} 2025-
 * [IEDMS](https://educationaldatamining.org/){:target="_blank"} 2026-
+* [EATEL](https://ea-tel.eu/){:target="_blank"} 2026-
 
 ### <span style="color: #0f1423; ">Organizing Activities</span>
 
