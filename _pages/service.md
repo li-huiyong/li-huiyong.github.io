@@ -29,16 +29,17 @@ author_profile: true
 
 ### <span style="color: #0f1423; ">Journal reviewing</span>
 
-* Computers & Education (SCI/SSCI)
-* British Journal of Educational Technology (SSCI)
-* Interactive Learning Environments (SSCI)
-* Computer Assisted Language Learning (SSCI)
-* Journal of Computer Assisted Learning (SSCI)
-* Educational Technology & Society (SSCI)
-* Humanities & Social Sciences Communications (SSCI)
-* Educational Psychology (SSCI)
-* Research and Practice in Technology Enhanced Learning (ESCI)
-* Technology, Knowledge and Learning (ESCI)
+* International Journal of Artificial Intelligence in Education (ESCI) 2026-
+* Educational Psychology (SSCI) 2026-
+* Technology, Knowledge and Learning (ESCI) 2026-
+* Computers & Education (SCI/SSCI) 2025-
+* British Journal of Educational Technology (SSCI) 2025-
+* Journal of Computer Assisted Learning (SSCI) 2025-
+* Computer Assisted Language Learning (SSCI) 2023-
+* Educational Technology & Society (SSCI) 2022-
+* Humanities & Social Sciences Communications (SSCI) 2022-
+* Interactive Learning Environments (SSCI) 2021-
+* Research and Practice in Technology Enhanced Learning (ESCI) 2021-
 
 ### <span style="color: #0f1423; ">Conference reviewing</span>
 
