@@ -27,6 +27,71 @@
   }
 }
 
+.project-list {
+  color: #292b40;
+  border: 0;
+  border-collapse: separate;
+  border-spacing: 0 0.65rem;
+  table-layout: fixed;
+  font-size: 1rem;
+  text-align: left;
+  overflow-wrap: break-word;
+
+  > tbody > tr > td {
+    padding: clamp(1rem, 3.2vw, 1.6rem);
+    border: 0;
+    border-radius: $border-radius;
+    background-color: #fcfaf2; // Shironeri
+  }
+
+  > tbody > tr:nth-child(even) > td {
+    background-color: #fad689; // Usuki
+  }
+
+  h2 {
+    margin: 0;
+    font-size: clamp(1.12rem, 2.8vw, 1.35rem);
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .project-meta {
+    margin: 0.8rem 0;
+    color: #494a5c;
+    font-size: 0.94rem;
+    line-height: 1.45;
+  }
+
+  a {
+    color: #00205b;
+    text-underline-offset: 0.16em;
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 2px;
+    }
+  }
+
+  h2 a {
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
