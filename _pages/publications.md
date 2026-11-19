@@ -19,7 +19,7 @@ author_profile: true
 
 ### <span style="color: Salmon; ">Journal</span>
 
-* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Atsushi Shimada, Shin'ichi Konomi. (2026). **Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance.** _ACM Transactions on Computing Education (in press)_ (SCI; ISSN 1946-6226; IF: 4.0)
+* Boxuan Ma, Huiyong Li, Gen Li, Li Chen, Cheng Tang, Atsushi Shimada, Shin'ichi Konomi. (2026). **Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance.** _ACM Transactions on Computing Education._ https://doi.org/10.1145/3862769 (SCI; ISSN 1946-6226; IF: 4.0)
 
 * Zizheng Liu, Huiyong Li, Na Zhao, Wudao Yang. (2026). **Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation.** _Biomedical Signal Processing and Control, 129, 111380._ https://doi.org/10.1016/j.bspc.2026.111380 (SCI; ISSN 1746-8108; IF: 5.7)
 
