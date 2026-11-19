@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* 11/2026: Paper on [**Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance**](https://doi.org/10.1145/3862769) was published in [ACM Transactions on Computing Education](https://dl.acm.org/toc/toce/justaccepted).
+
+* 10/2026: Project proposal on **GazeAgency: Utilising Dynamic AOI tracking and Machine Learning for Investigating Learner Agency in AI-Mediated Online Learning Environments** was accepted by JST LOTUS Programme. Please check the [Website](https://li-huiyong.github.io/GazeAgency/)
+
 * 9/2026: Paper on [**Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools**](https://doi.org/10.1080/10447318.2026.2730083) was published in [International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20).
 
 * 9/2026: Paper on [**Preprocessing and protocol sensitivity in eye-tracking-based ASD classification: A multi-seed participant-level evaluation**](https://doi.org/10.1016/j.bspc.2026.111380) was published in [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
