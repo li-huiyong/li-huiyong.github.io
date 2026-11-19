@@ -33,8 +33,6 @@
   border-collapse: separate;
   border-spacing: 0 0.65rem;
   table-layout: fixed;
-  font-size: 1rem;
-  text-align: left;
   overflow-wrap: break-word;
 
   > tbody > tr > td {
@@ -45,42 +43,39 @@
   }
 
   > tbody > tr:nth-child(even) > td {
-    background-color: #fad689; // Usuki
+    background-color: #ffffd0;
   }
 
   h2 {
-    margin: 0;
-    font-size: clamp(1.12rem, 2.8vw, 1.35rem);
-    line-height: 1.35;
+    margin: 0 0 0.5em;
+    font-size: $type-size-3;
   }
 
   p {
     margin: 0;
+    font-size: 18px;
+    text-align: justify;
   }
 
   .project-meta {
     margin: 0.8rem 0;
     color: #494a5c;
-    font-size: 0.94rem;
-    line-height: 1.45;
+    text-align: left;
   }
 
   a {
     color: #00205b;
-    text-underline-offset: 0.16em;
-
-    &:focus-visible {
-      outline: 2px solid currentColor;
-      outline-offset: 2px;
-    }
-  }
-
-  h2 a {
     text-decoration: none;
+    text-underline-offset: 0.16em;
 
     &:hover,
     &:focus-visible {
       text-decoration: underline;
+    }
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 2px;
     }
   }
 

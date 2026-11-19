@@ -51,7 +51,7 @@ Publically funded projects: [JSPS KAKEN](https://nrid.nii.ac.jp/en/nrid/10000609
           <a href="https://li-huiyong.github.io/GazeAgency/">Project Page</a>
         </p>
         <p>
-          Researchers at Kyushu University and the Indian Institute of Technology Bombay are studying how learners direct their attention and make decisions in AI-supported lessons. They will track gaze as areas of interest change on screen and use machine learning to identify patterns in how learners regulate their learning.
+          This Japan–India collaborative project investigates <strong>dynamic AOI tracking and machine learning</strong> as methods for understanding learner agency in AI-mediated online learning environments. Integrating gaze analysis, behavioural pattern detection, and NLP-based descriptions, the project will extend existing analytical methods and evaluate their applicability within Kyushu University’s AI-supported learning environment. It aims to advance methodological approaches for investigating learner agency, generate preliminary findings and strengthen international collaboration in AI-supported education and learning analytics.
         </p>
       </td>
     </tr>
