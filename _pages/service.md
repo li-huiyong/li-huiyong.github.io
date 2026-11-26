@@ -17,17 +17,21 @@ author_profile: true
 
 ### <span style="color: #0f1423; ">Conference & Workshop Organization</span>
 
-* C6 Track Co-Chair, GCCCE 2027
-* Virtual Experience Co-Chair, AIED 2026
-* Vice-Chair, ICLEA 2025
+* Virtual Experience Co-Chair, [AIED 2027](https://www.aied-conference.org/2027){:target="_blank"}
+* C6 Track Co-Chair, [GCCCE 2027](https://www.suss.edu.sg/about/engagement-collaboration/centres/teaching-learning-centre/gccce-2027){:target="_blank"}
+* Virtual Experience Co-Chair, [AIED 2026](https://www.aied-conference.org/2026){:target="_blank"}
+* Vice-Chair, [ICLEA 2025](https://sites.google.com/leds.ait.kyushu-u.ac.jp/iclea2025/){:target="_blank"}
 
 * Chair, [LearningSuccess@ICCE2026](https://yinlabkyudai.github.io/learning-success/){:target="_blank"}, [HAI-Agency@AIED2026](https://open-aied.github.io/HAI-Agency/){:target="_blank"}, [LA@ICCE2022](https://sites.google.com/view/teel-workshop/icce/laicce2022){:target="_blank"}, [LA@ICCE2021](https://sites.google.com/view/teel-workshop/icce/laicce2021){:target="_blank"}
+
 * Co-Chair, Learning Behavior & AI Agency@ICCE2026 workshop, MiXai^learn@ECTEL2026 workshop, LEET2026, MiXai^learn@AIED2025 workshop, LEET2025, LEET2024, Data Challenge@LAK22 workshop, DUT-KU Joint Workshop on LA 2019
 
-* Session Chair, AIED2026, ICLEA2026, LEET2026, ICLEA2025, LEET2025, ICCE2024, LEET2024
+* Session Chair, ICCE2026, AIED2026, ICLEA2026, LEET2026, ICLEA2025, LEET2025, ICCE2024, LEET2024
 
 ### <span style="color: #0f1423; ">Journal reviewing</span>
 
+* International Journal of Human–Computer Interaction (SCI/SSCI) 2026-
+* International Journal of Affective Engineering (ESCI) 2026-
 * International Journal of Artificial Intelligence in Education (ESCI) 2026-
 * Educational Psychology (SSCI) 2026-
 * Technology, Knowledge and Learning (ESCI) 2026-
